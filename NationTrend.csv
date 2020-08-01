@@ -1,0 +1,2757 @@
+Year,Country,Continent,value
+1896,Australia,Oceania,1
+1896,Austria,Europe,3
+1896,Denmark,Europe,3
+1896,France,Europe,12
+1896,Germany,Europe,19
+1896,Greece,Europe,102
+1896,Hungary,Europe,7
+1896,Italy,Europe,1
+1896,Sweden,Europe,1
+1896,Switzerland,Europe,3
+1896,UK,Europe,10
+1896,USA,Americas,14
+1900,Argentina,Americas,1
+1900,Australia,Oceania,2
+1900,Austria,Europe,16
+1900,Belgium,Europe,64
+1900,Brazil,Americas,1
+1900,Canada,Americas,4
+1900,Colombia,Americas,1
+1900,Cuba,Americas,1
+1900,Czech Republic,Europe,7
+1900,Denmark,Europe,13
+1900,France,Europe,720
+1900,Germany,Europe,76
+1900,Greece,Europe,3
+1900,Haiti,Americas,3
+1900,Hungary,Europe,18
+1900,India,Asia,1
+1900,Iran,Asia,1
+1900,Italy,Europe,23
+1900,Luxembourg,Europe,1
+1900,Mexico,Americas,3
+1900,Netherlands,Europe,35
+1900,New Zealand,Oceania,1
+1900,Norway,Europe,7
+1900,Peru,Americas,1
+1900,Romania,Europe,1
+1900,Russia,Europe,4
+1900,Spain,Europe,9
+1900,Sweden,Europe,10
+1900,Switzerland,Europe,18
+1900,UK,Europe,104
+1900,USA,Americas,75
+1904,Australia,Oceania,2
+1904,Austria,Europe,2
+1904,Canada,Americas,57
+1904,Cuba,Americas,3
+1904,France,Europe,1
+1904,Germany,Europe,22
+1904,Greece,Europe,14
+1904,Hungary,Europe,4
+1904,Italy,Europe,1
+1904,Norway,Europe,3
+1904,South Africa,Africa,8
+1904,Switzerland,Europe,3
+1904,UK,Europe,6
+1904,USA,Americas,524
+1908,Argentina,Americas,1
+1908,Australia,Oceania,30
+1908,Austria,Europe,7
+1908,Belgium,Europe,70
+1908,Canada,Americas,87
+1908,Czech Republic,Europe,19
+1908,Denmark,Europe,78
+1908,Finland,Europe,62
+1908,France,Europe,208
+1908,Germany,Europe,82
+1908,Greece,Europe,20
+1908,Hungary,Europe,65
+1908,Iceland,Europe,1
+1908,Italy,Europe,66
+1908,Netherlands,Europe,113
+1908,Norway,Europe,69
+1908,Russia,Europe,6
+1908,South Africa,Africa,14
+1908,Sweden,Europe,168
+1908,Switzerland,Europe,1
+1908,UK,Europe,735
+1908,USA,Americas,122
+1912,Australia,Oceania,25
+1912,Austria,Europe,85
+1912,Belgium,Europe,36
+1912,Canada,Americas,37
+1912,Chile,Americas,14
+1912,Czech Republic,Europe,43
+1912,Denmark,Europe,152
+1912,Finland,Europe,164
+1912,France,Europe,119
+1912,Germany,Europe,185
+1912,Greece,Europe,22
+1912,Hungary,Europe,121
+1912,Iceland,Europe,2
+1912,Italy,Europe,66
+1912,Japan,Asia,2
+1912,Luxembourg,Europe,21
+1912,Netherlands,Europe,33
+1912,Norway,Europe,190
+1912,Poland,Europe,1
+1912,Portugal,Europe,6
+1912,Russia,Europe,159
+1912,Serbia,Europe,2
+1912,South Africa,Africa,21
+1912,Sweden,Europe,444
+1912,Switzerland,Europe,7
+1912,Turkey,Asia,2
+1912,UK,Europe,274
+1912,USA,Americas,174
+1920,Argentina,Americas,1
+1920,Australia,Oceania,13
+1920,Belgium,Europe,336
+1920,Brazil,Americas,19
+1920,Canada,Americas,52
+1920,Chile,Americas,2
+1920,Czech Republic,Europe,119
+1920,Denmark,Europe,154
+1920,Egypt,Africa,18
+1920,Estonia,Europe,14
+1920,Finland,Europe,63
+1920,France,Europe,304
+1920,Greece,Europe,47
+1920,India,Asia,5
+1920,Italy,Europe,174
+1920,Japan,Asia,15
+1920,Luxembourg,Europe,25
+1920,Monaco,Europe,4
+1920,Netherlands,Europe,130
+1920,New Zealand,Oceania,4
+1920,Norway,Europe,193
+1920,Portugal,Europe,13
+1920,Serbia,Europe,15
+1920,South Africa,Africa,39
+1920,Spain,Europe,58
+1920,Sweden,Europe,260
+1920,Switzerland,Europe,77
+1920,UK,Europe,234
+1920,USA,Americas,288
+1924,Argentina,Americas,77
+1924,Australia,Oceania,36
+1924,Austria,Europe,49
+1924,Belgium,Europe,172
+1924,Brazil,Americas,12
+1924,Bulgaria,Europe,24
+1924,Canada,Americas,65
+1924,Chile,Americas,13
+1924,Cuba,Americas,9
+1924,Czech Republic,Europe,133
+1924,Denmark,Europe,89
+1924,Ecuador,Americas,3
+1924,Egypt,Africa,24
+1924,Estonia,Europe,37
+1924,Finland,Europe,121
+1924,France,Europe,401
+1924,Greece,Europe,39
+1924,Haiti,Americas,8
+1924,Hungary,Europe,89
+1924,India,Asia,13
+1924,Ireland,Europe,48
+1924,Italy,Europe,200
+1924,Japan,Asia,19
+1924,Latvia,Europe,36
+1924,Lithuania,Europe,13
+1924,Luxembourg,Europe,48
+1924,Mexico,Americas,15
+1924,Monaco,Europe,7
+1924,Netherlands,Europe,177
+1924,New Zealand,Oceania,4
+1924,Norway,Europe,62
+1924,Philippines,Asia,1
+1924,Poland,Europe,65
+1924,Portugal,Europe,28
+1924,Romania,Europe,35
+1924,Russia,Europe,3
+1924,Serbia,Europe,42
+1924,South Africa,Africa,30
+1924,Spain,Europe,95
+1924,Sweden,Europe,159
+1924,Switzerland,Europe,141
+1924,Turkey,Asia,22
+1924,UK,Europe,267
+1924,Uruguay,Americas,26
+1924,USA,Americas,299
+1928,Argentina,Americas,81
+1928,Australia,Oceania,18
+1928,Austria,Europe,73
+1928,Belgium,Europe,187
+1928,Bulgaria,Europe,5
+1928,Canada,Americas,69
+1928,Chile,Americas,38
+1928,Cuba,Americas,1
+1928,Czech Republic,Europe,69
+1928,Denmark,Europe,91
+1928,Egypt,Africa,32
+1928,Estonia,Europe,20
+1928,Finland,Europe,69
+1928,France,Europe,255
+1928,Germany,Europe,295
+1928,Greece,Europe,23
+1928,Haiti,Americas,2
+1928,Hungary,Europe,109
+1928,India,Asia,21
+1928,Ireland,Europe,38
+1928,Italy,Europe,174
+1928,Japan,Asia,40
+1928,Latvia,Europe,17
+1928,Lithuania,Europe,12
+1928,Luxembourg,Europe,48
+1928,Malta,Europe,9
+1928,Mexico,Americas,30
+1928,Monaco,Europe,10
+1928,Netherlands,Europe,266
+1928,New Zealand,Oceania,9
+1928,Norway,Europe,52
+1928,Panama,Americas,1
+1928,Philippines,Asia,4
+1928,Poland,Europe,93
+1928,Portugal,Europe,32
+1928,Romania,Europe,21
+1928,Serbia,Europe,34
+1928,South Africa,Africa,24
+1928,Spain,Europe,80
+1928,Sweden,Europe,100
+1928,Switzerland,Europe,133
+1928,Turkey,Asia,31
+1928,UK,Europe,232
+1928,Uruguay,Americas,17
+1928,USA,Americas,280
+1928,Zimbabwe,Africa,2
+1932,Argentina,Americas,33
+1932,Australia,Oceania,13
+1932,Austria,Europe,19
+1932,Belgium,Europe,36
+1932,Brazil,Americas,59
+1932,Bulgaria,Europe,2
+1932,Canada,Americas,102
+1932,China,Asia,1
+1932,Colombia,Americas,2
+1932,Cuba,Americas,3
+1932,Czech Republic,Europe,25
+1932,Denmark,Europe,43
+1932,El Salvador,Americas,1
+1932,Estonia,Europe,2
+1932,Finland,Europe,40
+1932,France,Europe,103
+1932,Germany,Europe,145
+1932,Greece,Europe,10
+1932,Guatemala,Americas,1
+1932,Haiti,Americas,3
+1932,Hungary,Europe,58
+1932,India,Asia,19
+1932,Ireland,Europe,16
+1932,Italy,Europe,112
+1932,Japan,Asia,157
+1932,Latvia,Europe,5
+1932,Luxembourg,Europe,3
+1932,Mexico,Americas,73
+1932,Monaco,Europe,1
+1932,Netherlands,Europe,46
+1932,New Zealand,Oceania,21
+1932,Norway,Europe,7
+1932,Peru,Americas,2
+1932,Philippines,Asia,8
+1932,Poland,Europe,51
+1932,Portugal,Europe,6
+1932,Romania,Europe,1
+1932,Serbia,Europe,1
+1932,South Africa,Africa,12
+1932,Spain,Europe,7
+1932,Sweden,Europe,81
+1932,Switzerland,Europe,7
+1932,Turkey,Asia,1
+1932,UK,Europe,107
+1932,Uruguay,Americas,2
+1932,USA,Americas,474
+1932,Venezuela,Americas,1
+1936,Afghanistan,Asia,15
+1936,Argentina,Americas,51
+1936,Australia,Oceania,32
+1936,Austria,Europe,234
+1936,Belgium,Europe,150
+1936,Bermuda,Americas,5
+1936,Boliva,Americas,2
+1936,Brazil,Americas,73
+1936,Bulgaria,Europe,26
+1936,Canada,Americas,97
+1936,Chile,Americas,40
+1936,China,Asia,54
+1936,Colombia,Americas,5
+1936,Costa Rica,Americas,1
+1936,Czech Republic,Europe,190
+1936,Denmark,Europe,121
+1936,Egypt,Africa,53
+1936,Estonia,Europe,33
+1936,Finland,Europe,108
+1936,France,Europe,201
+1936,Germany,Europe,433
+1936,Greece,Europe,41
+1936,Hungary,Europe,216
+1936,Iceland,Europe,12
+1936,India,Asia,27
+1936,Italy,Europe,244
+1936,Japan,Asia,220
+1936,Latvia,Europe,29
+1936,Liechtenstein,Europe,6
+1936,Luxembourg,Europe,49
+1936,Malta,Europe,11
+1936,Mexico,Americas,32
+1936,Monaco,Europe,8
+1936,Netherlands,Europe,165
+1936,New Zealand,Oceania,7
+1936,Norway,Europe,70
+1936,Peru,Americas,40
+1936,Philippines,Asia,28
+1936,Poland,Europe,144
+1936,Portugal,Europe,19
+1936,Romania,Europe,54
+1936,Serbia,Europe,93
+1936,South Africa,Africa,32
+1936,Sweden,Europe,171
+1936,Switzerland,Europe,190
+1936,Turkey,Asia,48
+1936,UK,Europe,208
+1936,Uruguay,Americas,37
+1936,USA,Americas,359
+1948,Afghanistan,Asia,25
+1948,Argentina,Americas,199
+1948,Australia,Oceania,75
+1948,Austria,Europe,148
+1948,Belgium,Europe,152
+1948,Bermuda,Americas,12
+1948,Brazil,Americas,70
+1948,Canada,Americas,127
+1948,Chile,Americas,54
+1948,China,Asia,31
+1948,Colombia,Americas,6
+1948,Cuba,Americas,53
+1948,Czech Republic,Europe,87
+1948,Denmark,Europe,162
+1948,Egypt,Africa,85
+1948,Finland,Europe,129
+1948,France,Europe,316
+1948,Greece,Europe,61
+1948,Guyana,Americas,4
+1948,Hungary,Europe,128
+1948,Iceland,Europe,20
+1948,India,Asia,79
+1948,Iran,Asia,36
+1948,Iraq,Asia,11
+1948,Ireland,Europe,73
+1948,Italy,Europe,215
+1948,Jamaica,Americas,13
+1948,Lebanon,Asia,8
+1948,Liechtenstein,Europe,2
+1948,Luxembourg,Europe,45
+1948,Malta,Europe,1
+1948,Mexico,Americas,88
+1948,Monaco,Europe,4
+1948,Myanmar,Asia,4
+1948,Netherlands,Europe,149
+1948,New Zealand,Oceania,7
+1948,Norway,Europe,81
+1948,Pakistan,Asia,35
+1948,Panama,Americas,1
+1948,Peru,Americas,41
+1948,Philippines,Asia,26
+1948,Poland,Europe,38
+1948,Portugal,Europe,48
+1948,Puerto Rico,Americas,9
+1948,Serbia,Europe,90
+1948,Singapore,Asia,1
+1948,South Africa,Africa,35
+1948,South Korea,Asia,46
+1948,Spain,Europe,65
+1948,Sri Lanka,Asia,7
+1948,Sweden,Europe,181
+1948,Switzerland,Europe,186
+1948,Syria,Asia,1
+1948,Trinidad,Americas,5
+1948,Turkey,Asia,58
+1948,UK,Europe,407
+1948,Uruguay,Americas,61
+1948,USA,Americas,300
+1948,Venezuela,Americas,1
+1952,Argentina,Americas,123
+1952,Australia,Oceania,81
+1952,Austria,Europe,112
+1952,Bahamas,Americas,7
+1952,Belgium,Europe,135
+1952,Bermuda,Americas,6
+1952,Brazil,Americas,97
+1952,Bulgaria,Europe,63
+1952,Canada,Americas,107
+1952,Chile,Americas,59
+1952,China,Asia,5
+1952,Cuba,Americas,29
+1952,Curacao,Americas,11
+1952,Czech Republic,Europe,99
+1952,Denmark,Europe,129
+1952,Egypt,Africa,106
+1952,Finland,Europe,258
+1952,France,Europe,245
+1952,Germany,Europe,241
+1952,Ghana,Africa,7
+1952,Greece,Europe,48
+1952,Guatemala,Americas,21
+1952,Guyana,Americas,1
+1952,Hungary,Europe,189
+1952,Iceland,Europe,9
+1952,India,Asia,64
+1952,Indonesia,Asia,3
+1952,Iran,Asia,22
+1952,Ireland,Europe,19
+1952,Israel,Asia,25
+1952,Italy,Europe,231
+1952,Jamaica,Americas,8
+1952,Japan,Asia,69
+1952,Lebanon,Asia,9
+1952,Liechtenstein,Europe,2
+1952,Luxembourg,Europe,44
+1952,Mexico,Americas,64
+1952,Monaco,Europe,8
+1952,Myanmar,Asia,5
+1952,Netherlands,Europe,104
+1952,New Zealand,Oceania,14
+1952,Nigeria,Africa,9
+1952,Norway,Europe,102
+1952,Pakistan,Asia,38
+1952,Panama,Americas,1
+1952,Philippines,Asia,25
+1952,Poland,Europe,125
+1952,Portugal,Europe,71
+1952,Puerto Rico,Americas,21
+1952,Romania,Europe,114
+1952,Russia,Europe,295
+1952,Serbia,Europe,87
+1952,Singapore,Asia,5
+1952,South Africa,Africa,64
+1952,South Korea,Asia,19
+1952,Spain,Europe,27
+1952,Sri Lanka,Asia,5
+1952,Sweden,Europe,206
+1952,Switzerland,Europe,157
+1952,Thailand,Asia,8
+1952,Trinidad,Americas,2
+1952,Turkey,Asia,51
+1952,UK,Europe,257
+1952,Uruguay,Americas,32
+1952,USA,Americas,286
+1952,Venezuela,Americas,38
+1952,Vietnam,Asia,8
+1956,Afghanistan,Asia,12
+1956,Argentina,Americas,35
+1956,Australia,Oceania,298
+1956,Austria,Europe,34
+1956,Bahamas,Americas,4
+1956,Belgium,Europe,57
+1956,Bermuda,Americas,3
+1956,Brazil,Americas,47
+1956,Bulgaria,Europe,47
+1956,Cambodia,Asia,2
+1956,Canada,Americas,96
+1956,Chile,Americas,33
+1956,China,Asia,2
+1956,Colombia,Americas,26
+1956,Cuba,Americas,16
+1956,Czech Republic,Europe,63
+1956,Denmark,Europe,37
+1956,Egypt,Africa,3
+1956,Ethiopia,Africa,12
+1956,Fiji,Oceania,5
+1956,Finland,Europe,71
+1956,France,Europe,145
+1956,Germany,Europe,167
+1956,Greece,Europe,13
+1956,Guyana,Americas,4
+1956,Hungary,Europe,111
+1956,Iceland,Europe,2
+1956,India,Asia,59
+1956,Indonesia,Asia,22
+1956,Iran,Asia,17
+1956,Ireland,Europe,18
+1956,Israel,Asia,3
+1956,Italy,Europe,135
+1956,Jamaica,Americas,6
+1956,Japan,Asia,112
+1956,Kenya,Africa,25
+1956,Liberia,Africa,4
+1956,Luxembourg,Europe,11
+1956,Malaysia,Asia,34
+1956,Mexico,Americas,24
+1956,Myanmar,Asia,11
+1956,Netherlands,Europe,1
+1956,New Zealand,Oceania,51
+1956,Nigeria,Africa,10
+1956,Norway,Europe,22
+1956,Pakistan,Asia,55
+1956,Peru,Americas,8
+1956,Philippines,Asia,39
+1956,Poland,Europe,64
+1956,Portugal,Europe,12
+1956,Puerto Rico,Americas,10
+1956,Romania,Europe,50
+1956,Russia,Europe,281
+1956,Serbia,Europe,35
+1956,Singapore,Asia,49
+1956,South Africa,Africa,50
+1956,South Korea,Asia,35
+1956,Spain,Europe,6
+1956,Sri Lanka,Asia,3
+1956,Sweden,Europe,97
+1956,Switzerland,Europe,9
+1956,Taiwan,Asia,20
+1956,Thailand,Asia,35
+1956,Trinidad,Americas,6
+1956,Turkey,Asia,19
+1956,Uganda,Africa,3
+1956,UK,Europe,197
+1956,Uruguay,Americas,21
+1956,USA,Americas,305
+1956,Venezuela,Americas,22
+1956,Vietnam,Asia,6
+1960,Afghanistan,Asia,12
+1960,Argentina,Americas,92
+1960,Australia,Oceania,189
+1960,Austria,Europe,103
+1960,Bahamas,Americas,13
+1960,Belgium,Europe,101
+1960,Bermuda,Americas,9
+1960,Brazil,Americas,72
+1960,Bulgaria,Europe,98
+1960,Canada,Americas,85
+1960,Chile,Americas,9
+1960,China,Asia,4
+1960,Colombia,Americas,16
+1960,Cuba,Americas,12
+1960,Curacao,Americas,5
+1960,Czech Republic,Europe,116
+1960,Denmark,Europe,100
+1960,Ethiopia,Africa,10
+1960,Fiji,Oceania,2
+1960,Finland,Europe,117
+1960,France,Europe,238
+1960,Germany,Europe,294
+1960,Ghana,Africa,13
+1960,Greece,Europe,48
+1960,Guyana,Americas,5
+1960,Haiti,Americas,1
+1960,Hungary,Europe,184
+1960,Iceland,Europe,9
+1960,India,Asia,45
+1960,Indonesia,Asia,22
+1960,Iran,Asia,23
+1960,Iraq,Asia,21
+1960,Ireland,Europe,49
+1960,Israel,Asia,23
+1960,Italy,Europe,280
+1960,Japan,Asia,162
+1960,Kenya,Africa,27
+1960,Lebanon,Asia,19
+1960,Liberia,Africa,4
+1960,Liechtenstein,Europe,5
+1960,Luxembourg,Europe,52
+1960,Malaysia,Asia,9
+1960,Malta,Europe,10
+1960,Mexico,Americas,69
+1960,Monaco,Europe,11
+1960,Morocco,Africa,47
+1960,Myanmar,Asia,10
+1960,Netherlands,Europe,110
+1960,New Zealand,Oceania,37
+1960,Nigeria,Africa,12
+1960,Norway,Europe,40
+1960,Pakistan,Asia,44
+1960,Panama,Americas,6
+1960,Peru,Americas,31
+1960,Philippines,Asia,40
+1960,Poland,Europe,185
+1960,Portugal,Europe,65
+1960,Puerto Rico,Americas,27
+1960,Romania,Europe,98
+1960,Russia,Europe,283
+1960,San Marino,Europe,9
+1960,Serbia,Europe,116
+1960,Singapore,Asia,5
+1960,South Africa,Africa,55
+1960,South Korea,Asia,35
+1960,Spain,Europe,144
+1960,Sri Lanka,Asia,5
+1960,Sudan,Africa,10
+1960,Sweden,Europe,134
+1960,Switzerland,Europe,149
+1960,Syria,Asia,74
+1960,Taiwan,Asia,27
+1960,Thailand,Asia,20
+1960,Trinidad,Americas,13
+1960,Tunisia,Africa,42
+1960,Turkey,Asia,49
+1960,Uganda,Africa,10
+1960,UK,Europe,253
+1960,Uruguay,Americas,34
+1960,USA,Americas,292
+1960,Venezuela,Americas,36
+1960,Vietnam,Asia,3
+1960,Zimbabwe,Africa,14
+1964,Afghanistan,Asia,8
+1964,Algeria,Africa,1
+1964,Argentina,Americas,102
+1964,Australia,Oceania,243
+1964,Austria,Europe,56
+1964,Bahamas,Americas,11
+1964,Belgium,Europe,61
+1964,Bermuda,Americas,4
+1964,Boliva,Americas,1
+1964,Brazil,Americas,61
+1964,Bulgaria,Europe,63
+1964,Cambodia,Asia,13
+1964,Cameroon,Africa,1
+1964,Canada,Americas,115
+1964,Chad,Africa,2
+1964,Chile,Americas,14
+1964,China,Asia,39
+1964,Colombia,Americas,20
+1964,Costa Rica,Americas,2
+1964,Cuba,Americas,27
+1964,Curacao,Americas,4
+1964,Czech Republic,Europe,104
+1964,Denmark,Europe,60
+1964,Dominican Republic,Americas,1
+1964,Egypt,Africa,73
+1964,Ethiopia,Africa,12
+1964,Finland,Europe,89
+1964,France,Europe,138
+1964,Germany,Europe,337
+1964,Ghana,Africa,33
+1964,Greece,Europe,18
+1964,Guyana,Americas,1
+1964,Hungary,Europe,182
+1964,Iceland,Europe,4
+1964,India,Asia,53
+1964,Iran,Asia,62
+1964,Iraq,Asia,13
+1964,Ireland,Europe,25
+1964,Israel,Asia,10
+1964,Italy,Europe,168
+1964,Ivory Coast,Africa,9
+1964,Jamaica,Americas,21
+1964,Japan,Asia,328
+1964,Kenya,Africa,37
+1964,Lebanon,Asia,5
+1964,Liberia,Africa,1
+1964,Liechtenstein,Europe,2
+1964,Luxembourg,Europe,12
+1964,Madagascar,Africa,3
+1964,Malaysia,Asia,61
+1964,Mali,Africa,2
+1964,Mexico,Americas,94
+1964,Monaco,Europe,1
+1964,Mongolia,Asia,21
+1964,Morocco,Africa,20
+1964,Myanmar,Asia,11
+1964,Nepal,Asia,6
+1964,Netherlands,Europe,125
+1964,New Zealand,Oceania,64
+1964,Niger,Africa,1
+1964,Nigeria,Africa,18
+1964,Norway,Europe,26
+1964,Pakistan,Asia,41
+1964,Panama,Americas,10
+1964,Peru,Americas,31
+1964,Philippines,Asia,47
+1964,Poland,Europe,140
+1964,Portugal,Europe,20
+1964,Puerto Rico,Americas,32
+1964,Republic of Congo,Africa,2
+1964,Romania,Europe,138
+1964,Russia,Europe,317
+1964,Senegal,Africa,12
+1964,Serbia,Europe,75
+1964,South Korea,Asia,154
+1964,Spain,Europe,51
+1964,Sri Lanka,Asia,6
+1964,Sweden,Europe,94
+1964,Switzerland,Europe,66
+1964,Taiwan,Asia,40
+1964,Tanzania,Africa,4
+1964,Thailand,Asia,54
+1964,Trinidad,Americas,13
+1964,Tunisia,Africa,9
+1964,Turkey,Asia,23
+1964,Uganda,Africa,13
+1964,UK,Europe,204
+1964,Uruguay,Americas,23
+1964,USA,Americas,346
+1964,Venezuela,Americas,16
+1964,Vietnam,Asia,16
+1964,Zambia,Africa,12
+1964,Zimbabwe,Africa,29
+1968,Afghanistan,Asia,5
+1968,Algeria,Africa,3
+1968,Argentina,Americas,89
+1968,Australia,Oceania,128
+1968,Austria,Europe,43
+1968,Bahamas,Americas,16
+1968,Barbados,Americas,9
+1968,Belgium,Europe,82
+1968,Belize,Americas,7
+1968,Bermuda,Americas,6
+1968,Boliva,Americas,4
+1968,Brazil,Americas,76
+1968,Bulgaria,Europe,112
+1968,Cameroon,Africa,5
+1968,Canada,Americas,139
+1968,Central African Republic,Africa,1
+1968,Chad,Africa,3
+1968,Chile,Americas,21
+1968,China,Asia,11
+1968,Colombia,Americas,43
+1968,Costa Rica,Americas,18
+1968,Cuba,Americas,115
+1968,Curacao,Americas,5
+1968,Czech Republic,Europe,121
+1968,Democratic Republic of the Congo,Africa,5
+1968,Denmark,Europe,64
+1968,Dominican Republic,Americas,18
+1968,Ecuador,Americas,15
+1968,Egypt,Africa,30
+1968,El Salvador,Americas,60
+1968,Ethiopia,Africa,18
+1968,Fiji,Oceania,1
+1968,Finland,Europe,66
+1968,France,Europe,200
+1968,Germany,Europe,501
+1968,Ghana,Africa,31
+1968,Greece,Europe,44
+1968,Guatemala,Americas,48
+1968,Guinea,Africa,15
+1968,Guyana,Americas,5
+1968,Honduras,Americas,6
+1968,Hungary,Europe,167
+1968,Iceland,Europe,8
+1968,India,Asia,25
+1968,Indonesia,Asia,6
+1968,Iran,Asia,14
+1968,Iraq,Asia,3
+1968,Ireland,Europe,31
+1968,Israel,Asia,29
+1968,Italy,Europe,167
+1968,Ivory Coast,Africa,10
+1968,Jamaica,Americas,25
+1968,Japan,Asia,171
+1968,Kenya,Africa,39
+1968,Kuwait,Asia,2
+1968,Lebanon,Asia,11
+1968,Libya,Africa,1
+1968,Liechtenstein,Europe,2
+1968,Luxembourg,Europe,5
+1968,Madagascar,Africa,4
+1968,Malaysia,Asia,31
+1968,Mali,Africa,2
+1968,Malta,Europe,1
+1968,Mexico,Americas,275
+1968,Monaco,Europe,2
+1968,Mongolia,Asia,16
+1968,Morocco,Africa,25
+1968,Myanmar,Asia,4
+1968,Netherlands,Europe,107
+1968,New Zealand,Oceania,52
+1968,Nicaragua,Americas,11
+1968,Niger,Africa,2
+1968,Nigeria,Africa,36
+1968,Norway,Europe,46
+1968,Pakistan,Asia,15
+1968,Panama,Americas,16
+1968,Paraguay,Americas,1
+1968,Peru,Americas,28
+1968,Philippines,Asia,49
+1968,Poland,Europe,177
+1968,Portugal,Europe,20
+1968,Puerto Rico,Americas,58
+1968,Romania,Europe,82
+1968,Russia,Europe,312
+1968,San Marino,Europe,4
+1968,Senegal,Africa,21
+1968,Serbia,Europe,69
+1968,Sierra Leone,Africa,3
+1968,Singapore,Asia,4
+1968,South Korea,Asia,54
+1968,Spain,Europe,122
+1968,Sri Lanka,Asia,3
+1968,Sudan,Africa,5
+1968,Suriname,Americas,1
+1968,Sweden,Europe,100
+1968,Switzerland,Europe,85
+1968,Syria,Asia,2
+1968,Taiwan,Asia,43
+1968,Tanzania,Africa,4
+1968,Thailand,Asia,41
+1968,Trinidad,Americas,19
+1968,Tunisia,Africa,7
+1968,Turkey,Asia,29
+1968,Uganda,Africa,11
+1968,UK,Europe,225
+1968,Uruguay,Americas,27
+1968,USA,Americas,363
+1968,Venezuela,Americas,23
+1968,Vietnam,Asia,9
+1968,Zambia,Africa,7
+1972,Afghanistan,Asia,8
+1972,Albania,Europe,5
+1972,Algeria,Africa,5
+1972,Argentina,Americas,92
+1972,Australia,Oceania,168
+1972,Austria,Europe,111
+1972,Bahamas,Americas,20
+1972,Barbados,Americas,13
+1972,Belgium,Europe,88
+1972,Belize,Americas,1
+1972,Benin,Africa,3
+1972,Bermuda,Americas,9
+1972,Boliva,Americas,11
+1972,Brazil,Americas,81
+1972,Bulgaria,Europe,130
+1972,Burkina Faso,Africa,1
+1972,Cambodia,Asia,9
+1972,Cameroon,Africa,11
+1972,Canada,Americas,208
+1972,Chad,Africa,4
+1972,Chile,Americas,11
+1972,China,Asia,10
+1972,Colombia,Americas,59
+1972,Costa Rica,Americas,3
+1972,Cuba,Americas,137
+1972,Curacao,Americas,2
+1972,Czech Republic,Europe,181
+1972,Denmark,Europe,126
+1972,Dominican Republic,Americas,5
+1972,Ecuador,Americas,2
+1972,Egypt,Africa,23
+1972,El Salvador,Americas,11
+1972,Ethiopia,Africa,31
+1972,Fiji,Oceania,2
+1972,Finland,Europe,96
+1972,France,Europe,227
+1972,Gabon,Africa,1
+1972,Germany,Europe,721
+1972,Ghana,Africa,35
+1972,Greece,Europe,60
+1972,Guatemala,Americas,8
+1972,Guyana,Americas,3
+1972,Haiti,Americas,7
+1972,Hungary,Europe,232
+1972,Iceland,Europe,25
+1972,India,Asia,41
+1972,Indonesia,Asia,6
+1972,Iran,Asia,48
+1972,Ireland,Europe,59
+1972,Israel,Asia,14
+1972,Italy,Europe,224
+1972,Ivory Coast,Africa,11
+1972,Jamaica,Americas,33
+1972,Japan,Asia,184
+1972,Kenya,Africa,57
+1972,Kuwait,Asia,4
+1972,Lebanon,Asia,19
+1972,Lesotho,Africa,1
+1972,Liberia,Africa,5
+1972,Liechtenstein,Europe,6
+1972,Luxembourg,Europe,11
+1972,Madagascar,Africa,11
+1972,Malawi,Africa,16
+1972,Malaysia,Asia,45
+1972,Mali,Africa,3
+1972,Malta,Europe,5
+1972,Mexico,Americas,174
+1972,Monaco,Europe,5
+1972,Mongolia,Asia,39
+1972,Morocco,Africa,35
+1972,Myanmar,Asia,18
+1972,Nepal,Asia,2
+1972,Netherlands,Europe,119
+1972,New Zealand,Oceania,89
+1972,Nicaragua,Americas,8
+1972,Niger,Africa,4
+1972,Nigeria,Africa,25
+1972,North Korea,Asia,37
+1972,Norway,Europe,112
+1972,Pakistan,Asia,25
+1972,Panama,Americas,7
+1972,Paraguay,Americas,3
+1972,Peru,Americas,20
+1972,Philippines,Asia,53
+1972,Poland,Europe,290
+1972,Portugal,Europe,29
+1972,Puerto Rico,Americas,53
+1972,Republic of Congo,Africa,6
+1972,Romania,Europe,159
+1972,Russia,Europe,371
+1972,San Marino,Europe,7
+1972,Saudi Arabia,Asia,10
+1972,Senegal,Africa,38
+1972,Serbia,Europe,126
+1972,Singapore,Asia,7
+1972,Somalia,Africa,3
+1972,South Korea,Asia,42
+1972,Spain,Europe,123
+1972,Sri Lanka,Asia,4
+1972,Sudan,Africa,26
+1972,Suriname,Americas,2
+1972,Swaziland,Africa,2
+1972,Sweden,Europe,131
+1972,Switzerland,Europe,151
+1972,Syria,Asia,5
+1972,Taiwan,Asia,21
+1972,Tanzania,Africa,15
+1972,Thailand,Asia,33
+1972,Togo,Africa,7
+1972,Trinidad,Americas,19
+1972,Tunisia,Africa,35
+1972,Turkey,Asia,43
+1972,Uganda,Africa,33
+1972,UK,Europe,284
+1972,Uruguay,Americas,13
+1972,USA,Americas,416
+1972,Venezuela,Americas,23
+1972,Vietnam,Asia,2
+1972,Zambia,Africa,11
+1976,Andorra,Europe,3
+1976,Antigua,Americas,10
+1976,Argentina,Americas,69
+1976,Australia,Oceania,180
+1976,Austria,Europe,60
+1976,Bahamas,Americas,11
+1976,Barbados,Americas,11
+1976,Belgium,Europe,101
+1976,Belize,Americas,4
+1976,Bermuda,Americas,16
+1976,Boliva,Americas,4
+1976,Brazil,Americas,79
+1976,Bulgaria,Europe,158
+1976,Cameroon,Africa,4
+1976,Canada,Americas,385
+1976,Cayman Islands,Americas,2
+1976,Chile,Americas,7
+1976,China,Asia,25
+1976,Colombia,Americas,35
+1976,Costa Rica,Americas,5
+1976,Cuba,Americas,156
+1976,Curacao,Americas,4
+1976,Czech Republic,Europe,163
+1976,Denmark,Europe,66
+1976,Dominican Republic,Americas,10
+1976,Ecuador,Americas,5
+1976,Egypt,Africa,26
+1976,Fiji,Oceania,2
+1976,Finland,Europe,83
+1976,France,Europe,206
+1976,Germany,Europe,557
+1976,Greece,Europe,36
+1976,Guatemala,Americas,28
+1976,Haiti,Americas,13
+1976,Honduras,Americas,3
+1976,Hungary,Europe,178
+1976,Iceland,Europe,13
+1976,India,Asia,26
+1976,Indonesia,Asia,7
+1976,Iran,Asia,84
+1976,Ireland,Europe,44
+1976,Israel,Asia,26
+1976,Italy,Europe,210
+1976,Ivory Coast,Africa,8
+1976,Jamaica,Americas,20
+1976,Japan,Asia,213
+1976,Kuwait,Asia,15
+1976,Lebanon,Asia,3
+1976,Liechtenstein,Europe,6
+1976,Luxembourg,Europe,8
+1976,Malaysia,Asia,23
+1976,Mexico,Americas,97
+1976,Monaco,Europe,8
+1976,Mongolia,Asia,32
+1976,Morocco,Africa,9
+1976,Nepal,Asia,1
+1976,Netherlands,Europe,108
+1976,New Zealand,Oceania,80
+1976,Nicaragua,Americas,15
+1976,North Korea,Asia,38
+1976,Norway,Europe,66
+1976,Pakistan,Asia,24
+1976,Panama,Americas,8
+1976,Papua New Guinea,Oceania,6
+1976,Paraguay,Americas,4
+1976,Peru,Americas,13
+1976,Philippines,Asia,14
+1976,Poland,Europe,207
+1976,Portugal,Europe,19
+1976,Puerto Rico,Americas,80
+1976,Romania,Europe,157
+1976,Russia,Europe,410
+1976,San Marino,Europe,10
+1976,Saudi Arabia,Asia,14
+1976,Senegal,Africa,21
+1976,Serbia,Europe,88
+1976,Singapore,Asia,4
+1976,South Korea,Asia,50
+1976,Spain,Europe,113
+1976,Suriname,Americas,3
+1976,Sweden,Europe,116
+1976,Switzerland,Europe,50
+1976,Thailand,Asia,42
+1976,Trinidad,Americas,13
+1976,Tunisia,Africa,15
+1976,Turkey,Asia,27
+1976,UK,Europe,242
+1976,Uruguay,Americas,9
+1976,USA,Americas,417
+1976,Venezuela,Americas,32
+1980,Afghanistan,Asia,11
+1980,Algeria,Africa,54
+1980,Andorra,Europe,2
+1980,Angola,Africa,11
+1980,Australia,Oceania,120
+1980,Austria,Europe,83
+1980,Belgium,Europe,59
+1980,Benin,Africa,16
+1980,Botswana,Africa,7
+1980,Brazil,Americas,106
+1980,Bulgaria,Europe,271
+1980,Cameroon,Africa,25
+1980,Colombia,Americas,23
+1980,Costa Rica,Americas,29
+1980,Cuba,Americas,208
+1980,Cyprus,Asia,14
+1980,Czech Republic,Europe,209
+1980,Denmark,Europe,58
+1980,Dominican Republic,Americas,6
+1980,Ecuador,Americas,12
+1980,Ethiopia,Africa,41
+1980,Finland,Europe,105
+1980,France,Europe,121
+1980,Germany,Europe,346
+1980,Greece,Europe,41
+1980,Guatemala,Americas,10
+1980,Guinea,Africa,9
+1980,Guyana,Americas,8
+1980,Hungary,Europe,263
+1980,Iceland,Europe,9
+1980,India,Asia,72
+1980,Iraq,Asia,43
+1980,Ireland,Europe,47
+1980,Italy,Europe,159
+1980,Jamaica,Americas,18
+1980,Jordan,Asia,4
+1980,Kuwait,Asia,56
+1980,Laos,Asia,19
+1980,Lebanon,Asia,15
+1980,Lesotho,Africa,5
+1980,Libya,Africa,29
+1980,Luxembourg,Europe,3
+1980,Madagascar,Africa,11
+1980,Mali,Africa,7
+1980,Malta,Europe,8
+1980,Mexico,Americas,45
+1980,Mongolia,Asia,43
+1980,Mozambique,Africa,14
+1980,Myanmar,Asia,2
+1980,Nepal,Asia,10
+1980,Netherlands,Europe,75
+1980,New Zealand,Oceania,4
+1980,Nicaragua,Americas,5
+1980,Nigeria,Africa,44
+1980,North Korea,Asia,47
+1980,Peru,Americas,28
+1980,Poland,Europe,306
+1980,Portugal,Europe,11
+1980,Puerto Rico,Americas,3
+1980,Republic of Congo,Africa,23
+1980,Romania,Europe,228
+1980,Russia,Europe,489
+1980,San Marino,Europe,16
+1980,Senegal,Africa,32
+1980,Serbia,Europe,164
+1980,Seychelles,Africa,11
+1980,Sierra Leone,Africa,14
+1980,Spain,Europe,155
+1980,Sri Lanka,Asia,4
+1980,Sweden,Europe,145
+1980,Switzerland,Europe,73
+1980,Syria,Asia,67
+1980,Tanzania,Africa,41
+1980,Trinidad,Americas,9
+1980,Uganda,Africa,13
+1980,UK,Europe,219
+1980,Venezuela,Americas,37
+1980,Vietnam,Asia,30
+1980,Zambia,Africa,37
+1980,Zimbabwe,Africa,42
+1984,Algeria,Africa,33
+1984,Andorra,Europe,2
+1984,Antigua,Americas,14
+1984,Argentina,Americas,81
+1984,Australia,Oceania,242
+1984,Austria,Europe,102
+1984,Bahamas,Americas,22
+1984,Bahrain,Asia,10
+1984,Bangladesh,Asia,1
+1984,Barbados,Americas,16
+1984,Belgium,Europe,63
+1984,Belize,Americas,11
+1984,Benin,Africa,3
+1984,Bermuda,Americas,12
+1984,Bhutan,Asia,6
+1984,Boliva,Americas,11
+1984,Botswana,Africa,7
+1984,Brazil,Americas,147
+1984,Cameroon,Africa,46
+1984,Canada,Americas,408
+1984,Cayman Islands,Americas,8
+1984,Central African Republic,Africa,3
+1984,Chad,Africa,3
+1984,Chile,Americas,52
+1984,China,Asia,262
+1984,Colombia,Americas,39
+1984,Costa Rica,Americas,28
+1984,Curacao,Americas,8
+1984,Cyprus,Asia,10
+1984,Democratic Republic of the Congo,Africa,8
+1984,Denmark,Europe,60
+1984,Djibouti,Africa,3
+1984,Dominican Republic,Americas,19
+1984,Ecuador,Americas,11
+1984,Egypt,Africa,114
+1984,El Salvador,Americas,10
+1984,Equatorial Guinea,Africa,4
+1984,Fiji,Oceania,14
+1984,Finland,Europe,86
+1984,France,Europe,238
+1984,Gabon,Africa,4
+1984,Gambia,Africa,10
+1984,Germany,Europe,390
+1984,Ghana,Africa,21
+1984,Greece,Europe,63
+1984,Grenada,Americas,6
+1984,Guatemala,Americas,24
+1984,Guinea,Africa,1
+1984,Guyana,Americas,10
+1984,Haiti,Americas,3
+1984,Honduras,Americas,10
+1984,Iceland,Europe,30
+1984,India,Asia,48
+1984,Indonesia,Asia,16
+1984,Iraq,Asia,23
+1984,Ireland,Europe,42
+1984,Israel,Asia,32
+1984,Italy,Europe,268
+1984,Ivory Coast,Africa,15
+1984,Jamaica,Americas,45
+1984,Japan,Asia,226
+1984,Jordan,Asia,13
+1984,Kenya,Africa,61
+1984,Kuwait,Asia,23
+1984,Lebanon,Asia,22
+1984,Lesotho,Africa,4
+1984,Liberia,Africa,7
+1984,Liechtenstein,Europe,7
+1984,Luxembourg,Europe,5
+1984,Madagascar,Africa,5
+1984,Malawi,Africa,15
+1984,Malaysia,Asia,21
+1984,Mali,Africa,4
+1984,Malta,Europe,7
+1984,Mauritania,Africa,2
+1984,Mauritius,Africa,4
+1984,Mexico,Americas,99
+1984,Monaco,Europe,8
+1984,Morocco,Africa,34
+1984,Mozambique,Africa,9
+1984,Myanmar,Asia,1
+1984,Nepal,Asia,10
+1984,Netherlands,Europe,136
+1984,New Zealand,Oceania,130
+1984,Nicaragua,Americas,5
+1984,Niger,Africa,4
+1984,Nigeria,Africa,32
+1984,Norway,Europe,103
+1984,Oman,Asia,16
+1984,Pakistan,Asia,31
+1984,Panama,Americas,8
+1984,Papua New Guinea,Oceania,7
+1984,Paraguay,Americas,14
+1984,Peru,Americas,35
+1984,Philippines,Asia,19
+1984,Portugal,Europe,38
+1984,Puerto Rico,Americas,51
+1984,Qatar,Asia,24
+1984,Republic of Congo,Africa,9
+1984,Romania,Europe,124
+1984,Rwanda,Africa,3
+1984,Samoa,Oceania,8
+1984,San Marino,Europe,19
+1984,Saudi Arabia,Asia,37
+1984,Senegal,Africa,24
+1984,Serbia,Europe,139
+1984,Seychelles,Africa,9
+1984,Sierra Leone,Africa,7
+1984,Singapore,Asia,5
+1984,Solomon Islands,Oceania,3
+1984,Somalia,Africa,7
+1984,South Korea,Asia,175
+1984,Spain,Europe,179
+1984,Sri Lanka,Asia,4
+1984,Sudan,Africa,7
+1984,Suriname,Americas,5
+1984,Swaziland,Africa,8
+1984,Sweden,Europe,174
+1984,Switzerland,Europe,129
+1984,Syria,Asia,9
+1984,Taiwan,Asia,38
+1984,Tanzania,Africa,18
+1984,Thailand,Asia,35
+1984,Togo,Africa,6
+1984,Tonga,Oceania,7
+1984,Trinidad,Americas,16
+1984,Tunisia,Africa,23
+1984,Turkey,Asia,46
+1984,Uganda,Africa,26
+1984,UK,Europe,337
+1984,United Arab Emirates,Asia,7
+1984,Uruguay,Americas,18
+1984,USA,Americas,551
+1984,Venezuela,Americas,26
+1984,"Virgin Islands, British",Americas,9
+1984,Yemen,Asia,2
+1984,Zambia,Africa,16
+1984,Zimbabwe,Africa,15
+1988,Afghanistan,Asia,5
+1988,Algeria,Africa,42
+1988,American Samoa,Oceania,6
+1988,Andorra,Europe,3
+1988,Angola,Africa,24
+1988,Antigua,Americas,15
+1988,Argentina,Americas,118
+1988,Aruba,Americas,8
+1988,Australia,Oceania,252
+1988,Austria,Europe,73
+1988,Bahamas,Americas,16
+1988,Bahrain,Asia,7
+1988,Bangladesh,Asia,6
+1988,Barbados,Americas,17
+1988,Belgium,Europe,59
+1988,Belize,Americas,10
+1988,Benin,Africa,7
+1988,Bermuda,Americas,12
+1988,Bhutan,Asia,3
+1988,Boliva,Americas,7
+1988,Botswana,Africa,8
+1988,Brazil,Americas,160
+1988,Bulgaria,Europe,172
+1988,Burkina Faso,Africa,6
+1988,Cameroon,Africa,15
+1988,Canada,Americas,328
+1988,Cayman Islands,Americas,8
+1988,Central African Republic,Africa,15
+1988,Chad,Africa,6
+1988,Chile,Americas,17
+1988,China,Asia,321
+1988,Colombia,Americas,40
+1988,Cook Islands,Oceania,7
+1988,Costa Rica,Americas,16
+1988,Curacao,Americas,3
+1988,Cyprus,Asia,9
+1988,Czech Republic,Europe,163
+1988,Democratic Republic of the Congo,Africa,15
+1988,Denmark,Europe,78
+1988,Djibouti,Africa,6
+1988,Dominican Republic,Americas,16
+1988,Ecuador,Americas,13
+1988,Egypt,Africa,49
+1988,El Salvador,Americas,6
+1988,Equatorial Guinea,Africa,6
+1988,Fiji,Oceania,23
+1988,Finland,Europe,78
+1988,France,Europe,266
+1988,Gabon,Africa,2
+1988,Gambia,Africa,6
+1988,Germany,Europe,606
+1988,Ghana,Africa,16
+1988,Greece,Europe,56
+1988,Grenada,Americas,6
+1988,Guam,Oceania,19
+1988,Guatemala,Americas,28
+1988,Guinea,Africa,6
+1988,Guyana,Americas,8
+1988,Haiti,Americas,4
+1988,Honduras,Americas,8
+1988,Hungary,Europe,188
+1988,Iceland,Europe,32
+1988,India,Asia,46
+1988,Indonesia,Asia,29
+1988,Iran,Asia,23
+1988,Iraq,Asia,27
+1988,Ireland,Europe,61
+1988,Israel,Asia,18
+1988,Italy,Europe,253
+1988,Ivory Coast,Africa,28
+1988,Jamaica,Americas,35
+1988,Japan,Asia,255
+1988,Jordan,Asia,7
+1988,Kenya,Africa,74
+1988,Kuwait,Asia,25
+1988,Laos,Asia,3
+1988,Lebanon,Asia,21
+1988,Lesotho,Africa,6
+1988,Liberia,Africa,8
+1988,Libya,Africa,6
+1988,Liechtenstein,Europe,12
+1988,Luxembourg,Europe,8
+1988,Malawi,Africa,16
+1988,Malaysia,Asia,9
+1988,Maldives,Asia,7
+1988,Mali,Africa,6
+1988,Malta,Europe,6
+1988,Mauritania,Africa,6
+1988,Mauritius,Africa,8
+1988,Mexico,Americas,83
+1988,Monaco,Europe,9
+1988,Mongolia,Asia,28
+1988,Morocco,Africa,27
+1988,Mozambique,Africa,8
+1988,Myanmar,Asia,2
+1988,Nepal,Asia,16
+1988,Netherlands,Europe,147
+1988,New Zealand,Oceania,83
+1988,Niger,Africa,6
+1988,Nigeria,Africa,69
+1988,Norway,Europe,69
+1988,Oman,Asia,8
+1988,Pakistan,Asia,30
+1988,Panama,Americas,6
+1988,Papua New Guinea,Oceania,11
+1988,Paraguay,Americas,10
+1988,Peru,Americas,21
+1988,Philippines,Asia,31
+1988,Poland,Europe,143
+1988,Portugal,Europe,65
+1988,Puerto Rico,Americas,47
+1988,Qatar,Asia,10
+1988,Republic of Congo,Africa,7
+1988,Romania,Europe,68
+1988,Russia,Europe,481
+1988,Rwanda,Africa,6
+1988,Saint Vincent,Americas,6
+1988,Samoa,Oceania,11
+1988,San Marino,Europe,11
+1988,Saudi Arabia,Asia,9
+1988,Senegal,Africa,23
+1988,Serbia,Europe,155
+1988,Sierra Leone,Africa,12
+1988,Singapore,Asia,8
+1988,Solomon Islands,Oceania,4
+1988,Somalia,Africa,5
+1988,South Korea,Asia,401
+1988,Spain,Europe,229
+1988,Sri Lanka,Asia,6
+1988,Sudan,Africa,8
+1988,Suriname,Americas,6
+1988,Swaziland,Africa,11
+1988,Sweden,Europe,185
+1988,Switzerland,Europe,99
+1988,Syria,Asia,13
+1988,Taiwan,Asia,61
+1988,Tanzania,Africa,10
+1988,Thailand,Asia,14
+1988,Togo,Africa,6
+1988,Tonga,Oceania,5
+1988,Trinidad,Americas,6
+1988,Tunisia,Africa,41
+1988,Turkey,Asia,41
+1988,Uganda,Africa,24
+1988,UK,Europe,345
+1988,United Arab Emirates,Asia,12
+1988,Uruguay,Americas,15
+1988,USA,Americas,549
+1988,Vanuatu,Oceania,4
+1988,Venezuela,Americas,17
+1988,Vietnam,Asia,9
+1988,"Virgin Islands, British",Americas,3
+1988,Yemen,Asia,13
+1988,Zambia,Africa,29
+1988,Zimbabwe,Africa,29
+1992,Albania,Europe,7
+1992,Algeria,Africa,35
+1992,American Samoa,Oceania,3
+1992,Andorra,Europe,8
+1992,Angola,Africa,28
+1992,Antigua,Americas,13
+1992,Argentina,Americas,84
+1992,Aruba,Americas,5
+1992,Australia,Oceania,279
+1992,Austria,Europe,102
+1992,Bahamas,Americas,14
+1992,Bahrain,Asia,10
+1992,Bangladesh,Asia,6
+1992,Barbados,Americas,17
+1992,Belgium,Europe,68
+1992,Belize,Americas,10
+1992,Benin,Africa,6
+1992,Bermuda,Americas,20
+1992,Bhutan,Asia,6
+1992,Boliva,Americas,13
+1992,Bosnia and Herzegovina,Europe,10
+1992,Botswana,Africa,6
+1992,Brazil,Americas,182
+1992,Bulgaria,Europe,138
+1992,Burkina Faso,Africa,4
+1992,Cameroon,Africa,8
+1992,Canada,Americas,295
+1992,Cayman Islands,Americas,10
+1992,Central African Republic,Africa,15
+1992,Chad,Africa,6
+1992,Chile,Americas,12
+1992,China,Asia,282
+1992,Colombia,Americas,49
+1992,Cook Islands,Oceania,2
+1992,Costa Rica,Americas,16
+1992,Croatia,Europe,39
+1992,Cuba,Americas,176
+1992,Curacao,Americas,4
+1992,Cyprus,Asia,17
+1992,Czech Republic,Europe,208
+1992,Democratic Republic of the Congo,Africa,17
+1992,Denmark,Europe,110
+1992,Djibouti,Africa,8
+1992,Dominican Republic,Americas,32
+1992,Ecuador,Americas,13
+1992,Egypt,Africa,75
+1992,El Salvador,Americas,4
+1992,Equatorial Guinea,Africa,7
+1992,Estonia,Europe,37
+1992,Ethiopia,Africa,20
+1992,Fiji,Oceania,18
+1992,Finland,Europe,88
+1992,France,Europe,339
+1992,Gabon,Africa,5
+1992,Gambia,Africa,5
+1992,Germany,Europe,463
+1992,Ghana,Africa,34
+1992,Greece,Europe,70
+1992,Grenada,Americas,4
+1992,Guam,Oceania,22
+1992,Guatemala,Americas,14
+1992,Guinea,Africa,8
+1992,Guyana,Americas,6
+1992,Haiti,Americas,7
+1992,Honduras,Americas,10
+1992,Hungary,Europe,217
+1992,Iceland,Europe,27
+1992,India,Asia,52
+1992,Individual Olympic Athletes,Individual Olympic Athletes,58
+1992,Indonesia,Asia,42
+1992,Iran,Asia,36
+1992,Iraq,Asia,8
+1992,Ireland,Europe,58
+1992,Israel,Asia,30
+1992,Italy,Europe,304
+1992,Ivory Coast,Africa,13
+1992,Jamaica,Americas,36
+1992,Japan,Asia,256
+1992,Jordan,Asia,4
+1992,Kenya,Africa,49
+1992,Kuwait,Asia,32
+1992,Laos,Asia,6
+1992,Latvia,Europe,34
+1992,Lebanon,Asia,12
+1992,Lesotho,Africa,6
+1992,Libya,Africa,5
+1992,Liechtenstein,Europe,7
+1992,Lithuania,Europe,47
+1992,Luxembourg,Europe,6
+1992,Madagascar,Africa,13
+1992,Malawi,Africa,4
+1992,Malaysia,Asia,26
+1992,Maldives,Asia,7
+1992,Mali,Africa,5
+1992,Malta,Europe,6
+1992,Mauritania,Africa,6
+1992,Mauritius,Africa,13
+1992,Mexico,Americas,102
+1992,Monaco,Europe,2
+1992,Mongolia,Asia,33
+1992,Morocco,Africa,44
+1992,Mozambique,Africa,6
+1992,Myanmar,Asia,4
+1992,Namibia,Africa,6
+1992,Nepal,Asia,2
+1992,Netherlands,Europe,201
+1992,New Zealand,Oceania,134
+1992,Nicaragua,Americas,8
+1992,Niger,Africa,3
+1992,Nigeria,Africa,55
+1992,North Korea,Asia,64
+1992,Norway,Europe,83
+1992,Oman,Asia,5
+1992,Pakistan,Asia,27
+1992,Panama,Americas,5
+1992,Papua New Guinea,Oceania,13
+1992,Paraguay,Americas,27
+1992,Peru,Americas,16
+1992,Philippines,Asia,26
+1992,Poland,Europe,201
+1992,Portugal,Europe,90
+1992,Puerto Rico,Americas,71
+1992,Qatar,Asia,28
+1992,Republic of Congo,Africa,7
+1992,Romania,Europe,173
+1992,Russia,Europe,475
+1992,Rwanda,Africa,10
+1992,Saint Vincent,Americas,6
+1992,Samoa,Oceania,5
+1992,San Marino,Europe,17
+1992,Saudi Arabia,Asia,9
+1992,Senegal,Africa,20
+1992,Seychelles,Africa,11
+1992,Sierra Leone,Africa,11
+1992,Singapore,Asia,14
+1992,Slovenia,Europe,35
+1992,Solomon Islands,Oceania,1
+1992,South Africa,Africa,93
+1992,South Korea,Asia,226
+1992,Spain,Europe,422
+1992,Sri Lanka,Asia,11
+1992,Sudan,Africa,6
+1992,Suriname,Americas,6
+1992,Swaziland,Africa,6
+1992,Sweden,Europe,187
+1992,Switzerland,Europe,102
+1992,Syria,Asia,8
+1992,Taiwan,Asia,31
+1992,Tanzania,Africa,9
+1992,Thailand,Asia,46
+1992,Togo,Africa,6
+1992,Tonga,Oceania,5
+1992,Trinidad,Americas,7
+1992,Tunisia,Africa,13
+1992,Turkey,Asia,41
+1992,Uganda,Africa,8
+1992,UK,Europe,371
+1992,United Arab Emirates,Asia,13
+1992,Uruguay,Americas,16
+1992,USA,Americas,570
+1992,Vanuatu,Oceania,6
+1992,Venezuela,Americas,26
+1992,Vietnam,Asia,7
+1992,"Virgin Islands, British",Americas,4
+1992,Yemen,Asia,8
+1992,Zambia,Africa,9
+1992,Zimbabwe,Africa,19
+1996,Afghanistan,Asia,2
+1996,Albania,Europe,7
+1996,Algeria,Africa,45
+1996,American Samoa,Oceania,7
+1996,Andorra,Europe,8
+1996,Angola,Africa,28
+1996,Antigua,Americas,13
+1996,Argentina,Americas,179
+1996,Armenia,Asia,32
+1996,Aruba,Americas,3
+1996,Australia,Oceania,417
+1996,Austria,Europe,72
+1996,Azerbaijan,Asia,23
+1996,Bahamas,Americas,26
+1996,Bahrain,Asia,5
+1996,Bangladesh,Asia,4
+1996,Barbados,Americas,13
+1996,Belarus,Europe,157
+1996,Belgium,Europe,61
+1996,Belize,Americas,5
+1996,Benin,Africa,5
+1996,Bermuda,Americas,9
+1996,Bhutan,Asia,2
+1996,Boliva,Americas,8
+1996,Bosnia and Herzegovina,Europe,9
+1996,Botswana,Africa,7
+1996,Brazil,Americas,221
+1996,Brunei,Asia,1
+1996,Bulgaria,Europe,110
+1996,Burkina Faso,Africa,5
+1996,Burundi,Africa,7
+1996,Cambodia,Asia,5
+1996,Cameroon,Africa,15
+1996,Canada,Americas,303
+1996,Cape Verde,Africa,3
+1996,Cayman Islands,Americas,9
+1996,Central African Republic,Africa,5
+1996,Chad,Africa,4
+1996,Chile,Americas,21
+1996,China,Asia,317
+1996,Colombia,Americas,48
+1996,Comoros,Africa,4
+1996,Cook Islands,Oceania,3
+1996,Costa Rica,Americas,11
+1996,Croatia,Europe,84
+1996,Cuba,Americas,164
+1996,Curacao,Americas,6
+1996,Cyprus,Asia,17
+1996,Czech Republic,Europe,115
+1996,Democratic Republic of the Congo,Africa,14
+1996,Denmark,Europe,119
+1996,Djibouti,Africa,5
+1996,Dominica,Americas,6
+1996,Dominican Republic,Americas,16
+1996,Ecuador,Americas,19
+1996,Egypt,Africa,29
+1996,El Salvador,Americas,8
+1996,Equatorial Guinea,Africa,5
+1996,Estonia,Europe,43
+1996,Ethiopia,Africa,18
+1996,Fiji,Oceania,17
+1996,Finland,Europe,76
+1996,France,Europe,299
+1996,Gabon,Africa,7
+1996,Gambia,Africa,9
+1996,Georgia,Asia,34
+1996,Germany,Europe,466
+1996,Ghana,Africa,35
+1996,Greece,Europe,121
+1996,Grenada,Americas,5
+1996,Guam,Oceania,8
+1996,Guatemala,Americas,26
+1996,Guinea,Africa,5
+1996,Guinea-Bissau,Africa,3
+1996,Guyana,Americas,7
+1996,Haiti,Americas,7
+1996,Honduras,Americas,7
+1996,Hungary,Europe,213
+1996,Iceland,Europe,9
+1996,India,Asia,49
+1996,Indonesia,Asia,40
+1996,Iran,Asia,18
+1996,Iraq,Asia,3
+1996,Ireland,Europe,78
+1996,Israel,Asia,25
+1996,Italy,Europe,340
+1996,Ivory Coast,Africa,11
+1996,Jamaica,Americas,46
+1996,Japan,Asia,306
+1996,Jordan,Asia,5
+1996,Kazakhstan,Asia,96
+1996,Kenya,Africa,52
+1996,Kuwait,Asia,25
+1996,Kyrgyzstan,Asia,33
+1996,Laos,Asia,5
+1996,Latvia,Europe,47
+1996,Lebanon,Asia,1
+1996,Lesotho,Africa,9
+1996,Liberia,Africa,5
+1996,Libya,Africa,5
+1996,Liechtenstein,Europe,2
+1996,Lithuania,Europe,61
+1996,Luxembourg,Europe,6
+1996,Macedonia,Europe,11
+1996,Madagascar,Africa,11
+1996,Malawi,Africa,2
+1996,Malaysia,Asia,35
+1996,Maldives,Asia,6
+1996,Mali,Africa,3
+1996,Malta,Europe,7
+1996,Mauritania,Africa,4
+1996,Mauritius,Africa,26
+1996,Mexico,Americas,98
+1996,Moldova,Europe,40
+1996,Monaco,Europe,3
+1996,Mongolia,Asia,16
+1996,Morocco,Africa,34
+1996,Mozambique,Africa,3
+1996,Myanmar,Asia,3
+1996,Namibia,Africa,8
+1996,Nauru,Oceania,3
+1996,Nepal,Asia,6
+1996,Netherlands,Europe,239
+1996,New Zealand,Oceania,95
+1996,Nicaragua,Americas,26
+1996,Niger,Africa,3
+1996,Nigeria,Africa,65
+1996,North Korea,Asia,24
+1996,Norway,Europe,97
+1996,Oman,Asia,4
+1996,Pakistan,Asia,24
+1996,Palestine,Asia,1
+1996,Panama,Americas,7
+1996,Papua New Guinea,Oceania,11
+1996,Paraguay,Americas,7
+1996,Peru,Americas,29
+1996,Philippines,Asia,12
+1996,Poland,Europe,165
+1996,Portugal,Europe,107
+1996,Puerto Rico,Americas,69
+1996,Qatar,Asia,12
+1996,Republic of Congo,Africa,5
+1996,Romania,Europe,165
+1996,Russia,Europe,390
+1996,Rwanda,Africa,4
+1996,Saint Kitts,Americas,10
+1996,Saint Lucia,Americas,6
+1996,Saint Vincent,Americas,8
+1996,Samoa,Oceania,5
+1996,San Marino,Europe,7
+1996,Sao Tome and Principe,Africa,2
+1996,Saudi Arabia,Asia,29
+1996,Senegal,Africa,11
+1996,Serbia,Europe,68
+1996,Seychelles,Africa,9
+1996,Sierra Leone,Africa,14
+1996,Singapore,Asia,14
+1996,Slovakia,Europe,71
+1996,Slovenia,Europe,37
+1996,Solomon Islands,Oceania,4
+1996,Somalia,Africa,4
+1996,South Africa,Africa,84
+1996,South Korea,Asia,303
+1996,Spain,Europe,289
+1996,Sri Lanka,Asia,9
+1996,Sudan,Africa,4
+1996,Suriname,Americas,7
+1996,Swaziland,Africa,6
+1996,Sweden,Europe,177
+1996,Switzerland,Europe,115
+1996,Syria,Asia,7
+1996,Taiwan,Asia,74
+1996,Tajikistan,Asia,8
+1996,Tanzania,Africa,7
+1996,Thailand,Asia,37
+1996,Togo,Africa,5
+1996,Tonga,Oceania,5
+1996,Trinidad,Americas,12
+1996,Tunisia,Africa,51
+1996,Turkey,Asia,53
+1996,Turkmenistan,Asia,7
+1996,Uganda,Africa,10
+1996,UK,Europe,300
+1996,Ukraine,Europe,231
+1996,United Arab Emirates,Asia,4
+1996,Uruguay,Americas,14
+1996,USA,Americas,660
+1996,Uzbekistan,Asia,71
+1996,Vanuatu,Oceania,4
+1996,Venezuela,Americas,39
+1996,Vietnam,Asia,6
+1996,"Virgin Islands, British",Americas,7
+1996,Yemen,Asia,4
+1996,Zambia,Africa,8
+1996,Zimbabwe,Africa,13
+2000,Albania,Europe,4
+2000,Algeria,Africa,47
+2000,American Samoa,Oceania,4
+2000,Andorra,Europe,5
+2000,Angola,Africa,30
+2000,Antigua,Americas,3
+2000,Argentina,Americas,143
+2000,Armenia,Asia,25
+2000,Aruba,Americas,5
+2000,Australia,Oceania,617
+2000,Austria,Europe,92
+2000,Azerbaijan,Asia,31
+2000,Bahamas,Americas,25
+2000,Bahrain,Asia,4
+2000,Bangladesh,Asia,5
+2000,Barbados,Americas,18
+2000,Belarus,Europe,139
+2000,Belgium,Europe,68
+2000,Belize,Americas,2
+2000,Benin,Africa,4
+2000,Bermuda,Americas,6
+2000,Bhutan,Asia,2
+2000,Boliva,Americas,5
+2000,Bosnia and Herzegovina,Europe,9
+2000,Botswana,Africa,7
+2000,Brazil,Americas,198
+2000,Brunei,Asia,2
+2000,Bulgaria,Europe,91
+2000,Burkina Faso,Africa,4
+2000,Burundi,Africa,6
+2000,Cambodia,Asia,4
+2000,Cameroon,Africa,34
+2000,Canada,Americas,294
+2000,Cape Verde,Africa,2
+2000,Cayman Islands,Americas,3
+2000,Central African Republic,Africa,3
+2000,Chad,Africa,2
+2000,Chile,Americas,50
+2000,China,Asia,302
+2000,Colombia,Americas,44
+2000,Comoros,Africa,2
+2000,Cook Islands,Oceania,2
+2000,Costa Rica,Americas,7
+2000,Croatia,Europe,88
+2000,Cuba,Americas,229
+2000,Curacao,Americas,7
+2000,Cyprus,Asia,22
+2000,Czech Republic,Europe,119
+2000,Democratic Republic of the Congo,Africa,2
+2000,Denmark,Europe,97
+2000,Djibouti,Africa,2
+2000,Dominica,Americas,4
+2000,Dominican Republic,Americas,13
+2000,Ecuador,Americas,10
+2000,Egypt,Africa,89
+2000,El Salvador,Americas,8
+2000,Equatorial Guinea,Africa,4
+2000,Eritrea,Africa,3
+2000,Estonia,Europe,33
+2000,Ethiopia,Africa,26
+2000,Fiji,Oceania,7
+2000,Finland,Europe,70
+2000,France,Europe,336
+2000,Gabon,Africa,5
+2000,Gambia,Africa,2
+2000,Georgia,Asia,36
+2000,Germany,Europe,422
+2000,Ghana,Africa,22
+2000,Greece,Europe,140
+2000,Grenada,Americas,3
+2000,Guam,Oceania,7
+2000,Guatemala,Americas,15
+2000,Guinea,Africa,6
+2000,Guinea-Bissau,Africa,3
+2000,Guyana,Americas,4
+2000,Haiti,Americas,5
+2000,Honduras,Americas,20
+2000,Hungary,Europe,178
+2000,Iceland,Europe,18
+2000,India,Asia,65
+2000,Individual Olympic Athletes,Individual Olympic Athletes,4
+2000,Indonesia,Asia,47
+2000,Iran,Asia,33
+2000,Iraq,Asia,4
+2000,Ireland,Europe,64
+2000,Israel,Asia,39
+2000,Italy,Europe,361
+2000,Ivory Coast,Africa,14
+2000,Jamaica,Americas,48
+2000,Japan,Asia,266
+2000,Jordan,Asia,8
+2000,Kazakhstan,Asia,130
+2000,Kenya,Africa,56
+2000,Kuwait,Asia,29
+2000,Kyrgyzstan,Asia,48
+2000,Laos,Asia,3
+2000,Latvia,Europe,45
+2000,Lebanon,Asia,6
+2000,Lesotho,Africa,6
+2000,Liberia,Africa,8
+2000,Libya,Africa,3
+2000,Liechtenstein,Europe,2
+2000,Lithuania,Europe,61
+2000,Luxembourg,Europe,7
+2000,Macedonia,Europe,10
+2000,Madagascar,Africa,11
+2000,Malawi,Africa,2
+2000,Malaysia,Asia,40
+2000,Maldives,Asia,4
+2000,Mali,Africa,5
+2000,Malta,Europe,7
+2000,Mauritania,Africa,2
+2000,Mauritius,Africa,20
+2000,Mexico,Americas,78
+2000,Micronesia,Oceania,5
+2000,Moldova,Europe,34
+2000,Monaco,Europe,4
+2000,Mongolia,Asia,20
+2000,Morocco,Africa,55
+2000,Mozambique,Africa,4
+2000,Myanmar,Asia,7
+2000,Namibia,Africa,11
+2000,Nauru,Oceania,2
+2000,Nepal,Asia,5
+2000,Netherlands,Europe,231
+2000,New Zealand,Oceania,147
+2000,Nicaragua,Americas,6
+2000,Niger,Africa,4
+2000,Nigeria,Africa,83
+2000,North Korea,Asia,31
+2000,Norway,Europe,93
+2000,Oman,Asia,6
+2000,Pakistan,Asia,27
+2000,Palau,Oceania,5
+2000,Palestine,Asia,2
+2000,Panama,Americas,6
+2000,Papua New Guinea,Oceania,5
+2000,Paraguay,Americas,5
+2000,Peru,Americas,21
+2000,Philippines,Asia,20
+2000,Poland,Europe,187
+2000,Portugal,Europe,61
+2000,Puerto Rico,Americas,29
+2000,Qatar,Asia,17
+2000,Republic of Congo,Africa,5
+2000,Romania,Europe,145
+2000,Russia,Europe,435
+2000,Rwanda,Africa,5
+2000,Saint Kitts,Americas,2
+2000,Saint Lucia,Americas,5
+2000,Saint Vincent,Americas,4
+2000,Samoa,Oceania,5
+2000,San Marino,Europe,4
+2000,Sao Tome and Principe,Africa,2
+2000,Saudi Arabia,Asia,18
+2000,Senegal,Africa,26
+2000,Serbia,Europe,109
+2000,Seychelles,Africa,9
+2000,Sierra Leone,Africa,3
+2000,Singapore,Asia,14
+2000,Slovakia,Europe,108
+2000,Slovenia,Europe,74
+2000,Solomon Islands,Oceania,2
+2000,Somalia,Africa,2
+2000,South Africa,Africa,127
+2000,South Korea,Asia,281
+2000,Spain,Europe,321
+2000,Sri Lanka,Asia,18
+2000,Sudan,Africa,3
+2000,Suriname,Americas,4
+2000,Swaziland,Africa,6
+2000,Sweden,Europe,150
+2000,Switzerland,Europe,102
+2000,Syria,Asia,8
+2000,Taiwan,Asia,55
+2000,Tajikistan,Asia,4
+2000,Tanzania,Africa,4
+2000,Thailand,Asia,52
+2000,Togo,Africa,3
+2000,Tonga,Oceania,3
+2000,Trinidad,Americas,19
+2000,Tunisia,Africa,47
+2000,Turkey,Asia,57
+2000,Turkmenistan,Asia,8
+2000,Uganda,Africa,13
+2000,UK,Europe,310
+2000,Ukraine,Europe,230
+2000,United Arab Emirates,Asia,4
+2000,Uruguay,Americas,15
+2000,USA,Americas,595
+2000,Uzbekistan,Asia,70
+2000,Vanuatu,Oceania,3
+2000,Venezuela,Americas,50
+2000,Vietnam,Asia,7
+2000,"Virgin Islands, British",Americas,1
+2000,Yemen,Asia,2
+2000,Zambia,Africa,8
+2000,Zimbabwe,Africa,16
+2004,Afghanistan,Asia,5
+2004,Albania,Europe,7
+2004,Algeria,Africa,61
+2004,American Samoa,Oceania,3
+2004,Andorra,Europe,6
+2004,Angola,Africa,30
+2004,Antigua,Americas,5
+2004,Argentina,Americas,152
+2004,Armenia,Asia,18
+2004,Aruba,Americas,4
+2004,Australia,Oceania,470
+2004,Austria,Europe,74
+2004,Azerbaijan,Asia,36
+2004,Bahamas,Americas,22
+2004,Bahrain,Asia,10
+2004,Bangladesh,Asia,4
+2004,Barbados,Americas,10
+2004,Belarus,Europe,151
+2004,Belgium,Europe,50
+2004,Belize,Americas,2
+2004,Benin,Africa,4
+2004,Bermuda,Americas,10
+2004,Bhutan,Asia,2
+2004,Boliva,Americas,7
+2004,Bosnia and Herzegovina,Europe,9
+2004,Botswana,Africa,11
+2004,Brazil,Americas,243
+2004,Brunei,Asia,1
+2004,Bulgaria,Europe,95
+2004,Burkina Faso,Africa,5
+2004,Burundi,Africa,7
+2004,Cambodia,Asia,4
+2004,Cameroon,Africa,17
+2004,Canada,Americas,262
+2004,Cape Verde,Africa,3
+2004,Cayman Islands,Americas,5
+2004,Central African Republic,Africa,4
+2004,Chad,Africa,1
+2004,Chile,Americas,22
+2004,China,Asia,415
+2004,Colombia,Americas,53
+2004,Comoros,Africa,3
+2004,Cook Islands,Oceania,3
+2004,Costa Rica,Americas,20
+2004,Croatia,Europe,81
+2004,Cuba,Americas,151
+2004,Curacao,Americas,3
+2004,Cyprus,Asia,20
+2004,Czech Republic,Europe,142
+2004,Democratic Republic of the Congo,Africa,4
+2004,Denmark,Europe,92
+2004,Dominica,Americas,2
+2004,Dominican Republic,Americas,33
+2004,Ecuador,Americas,16
+2004,Egypt,Africa,97
+2004,El Salvador,Americas,7
+2004,Equatorial Guinea,Africa,2
+2004,Eritrea,Africa,4
+2004,Estonia,Europe,42
+2004,Ethiopia,Africa,26
+2004,Fiji,Oceania,8
+2004,Finland,Europe,53
+2004,France,Europe,308
+2004,Gabon,Africa,5
+2004,Gambia,Africa,2
+2004,Georgia,Asia,32
+2004,Germany,Europe,441
+2004,Ghana,Africa,26
+2004,Greece,Europe,426
+2004,Grenada,Americas,5
+2004,Guam,Oceania,4
+2004,Guatemala,Americas,18
+2004,Guinea,Africa,3
+2004,Guinea-Bissau,Africa,3
+2004,Guyana,Americas,4
+2004,Haiti,Americas,8
+2004,Honduras,Americas,5
+2004,Hungary,Europe,209
+2004,Iceland,Europe,26
+2004,India,Asia,73
+2004,Indonesia,Asia,38
+2004,Iran,Asia,37
+2004,Iraq,Asia,24
+2004,Ireland,Europe,46
+2004,Israel,Asia,36
+2004,Italy,Europe,364
+2004,Ivory Coast,Africa,5
+2004,Jamaica,Americas,47
+2004,Japan,Asia,306
+2004,Jordan,Asia,8
+2004,Kazakhstan,Asia,114
+2004,Kenya,Africa,46
+2004,Kiribati,Oceania,3
+2004,Kuwait,Asia,11
+2004,Kyrgyzstan,Asia,29
+2004,Laos,Asia,5
+2004,Latvia,Europe,32
+2004,Lebanon,Asia,5
+2004,Lesotho,Africa,3
+2004,Liberia,Africa,2
+2004,Libya,Africa,8
+2004,Liechtenstein,Europe,1
+2004,Lithuania,Europe,59
+2004,Luxembourg,Europe,10
+2004,Macedonia,Europe,10
+2004,Madagascar,Africa,8
+2004,Malawi,Africa,4
+2004,Malaysia,Asia,26
+2004,Maldives,Asia,4
+2004,Mali,Africa,21
+2004,Malta,Europe,7
+2004,Mauritania,Africa,2
+2004,Mauritius,Africa,9
+2004,Mexico,Americas,109
+2004,Micronesia,Oceania,5
+2004,Moldova,Europe,33
+2004,Monaco,Europe,3
+2004,Mongolia,Asia,20
+2004,Morocco,Africa,55
+2004,Mozambique,Africa,4
+2004,Myanmar,Asia,2
+2004,Namibia,Africa,8
+2004,Nauru,Oceania,3
+2004,Nepal,Asia,6
+2004,Netherlands,Europe,210
+2004,New Zealand,Oceania,148
+2004,Nicaragua,Americas,5
+2004,Niger,Africa,4
+2004,Nigeria,Africa,70
+2004,North Korea,Asia,36
+2004,Norway,Europe,52
+2004,Oman,Asia,2
+2004,Pakistan,Asia,26
+2004,Palau,Oceania,4
+2004,Palestine,Asia,3
+2004,Panama,Americas,4
+2004,Papua New Guinea,Oceania,4
+2004,Paraguay,Americas,22
+2004,Peru,Americas,12
+2004,Philippines,Asia,16
+2004,Poland,Europe,194
+2004,Portugal,Europe,81
+2004,Puerto Rico,Americas,43
+2004,Qatar,Asia,15
+2004,Republic of Congo,Africa,5
+2004,Romania,Europe,108
+2004,Russia,Europe,446
+2004,Rwanda,Africa,5
+2004,Saint Kitts,Americas,2
+2004,Saint Lucia,Americas,2
+2004,Saint Vincent,Americas,3
+2004,Samoa,Oceania,3
+2004,San Marino,Europe,5
+2004,Sao Tome and Principe,Africa,2
+2004,Saudi Arabia,Asia,16
+2004,Senegal,Africa,15
+2004,Serbia,Europe,85
+2004,Seychelles,Africa,9
+2004,Sierra Leone,Africa,2
+2004,Singapore,Asia,16
+2004,Slovakia,Europe,64
+2004,Slovenia,Europe,79
+2004,Solomon Islands,Oceania,2
+2004,Somalia,Africa,2
+2004,South Africa,Africa,106
+2004,South Korea,Asia,264
+2004,Spain,Europe,316
+2004,Sri Lanka,Asia,7
+2004,Sudan,Africa,4
+2004,Suriname,Americas,4
+2004,Swaziland,Africa,3
+2004,Sweden,Europe,115
+2004,Switzerland,Europe,98
+2004,Syria,Asia,6
+2004,Taiwan,Asia,88
+2004,Tajikistan,Asia,9
+2004,Tanzania,Africa,8
+2004,Thailand,Asia,42
+2004,Timor-Leste,Asia,2
+2004,Togo,Africa,3
+2004,Tonga,Oceania,5
+2004,Trinidad,Americas,19
+2004,Tunisia,Africa,54
+2004,Turkey,Asia,64
+2004,Turkmenistan,Asia,9
+2004,Uganda,Africa,11
+2004,UK,Europe,264
+2004,Ukraine,Europe,239
+2004,United Arab Emirates,Asia,4
+2004,Uruguay,Americas,15
+2004,USA,Americas,539
+2004,Uzbekistan,Asia,69
+2004,Vanuatu,Oceania,2
+2004,Venezuela,Americas,48
+2004,Vietnam,Asia,11
+2004,"Virgin Islands, British",Americas,1
+2004,Yemen,Asia,3
+2004,Zambia,Africa,6
+2004,Zimbabwe,Africa,12
+2008,Afghanistan,Asia,4
+2008,Albania,Europe,11
+2008,Algeria,Africa,56
+2008,American Samoa,Oceania,4
+2008,Andorra,Europe,5
+2008,Angola,Africa,32
+2008,Antigua,Americas,5
+2008,Argentina,Americas,132
+2008,Armenia,Asia,25
+2008,Aruba,Americas,2
+2008,Australia,Oceania,432
+2008,Austria,Europe,70
+2008,Azerbaijan,Asia,44
+2008,Bahamas,Americas,25
+2008,Bahrain,Asia,14
+2008,Bangladesh,Asia,5
+2008,Barbados,Americas,8
+2008,Belarus,Europe,177
+2008,Belgium,Europe,94
+2008,Belize,Americas,4
+2008,Benin,Africa,5
+2008,Bermuda,Americas,6
+2008,Bhutan,Asia,2
+2008,Boliva,Americas,7
+2008,Bosnia and Herzegovina,Europe,5
+2008,Botswana,Africa,11
+2008,Brazil,Americas,268
+2008,Bulgaria,Europe,70
+2008,Burkina Faso,Africa,6
+2008,Burundi,Africa,3
+2008,Cambodia,Asia,4
+2008,Cameroon,Africa,32
+2008,Canada,Americas,332
+2008,Cape Verde,Africa,2
+2008,Cayman Islands,Americas,4
+2008,Central African Republic,Africa,3
+2008,Chad,Africa,2
+2008,Chile,Americas,26
+2008,China,Asia,633
+2008,Colombia,Americas,67
+2008,Comoros,Africa,3
+2008,Cook Islands,Oceania,4
+2008,Costa Rica,Americas,8
+2008,Croatia,Europe,99
+2008,Cuba,Americas,158
+2008,Curacao,Americas,3
+2008,Cyprus,Asia,17
+2008,Czech Republic,Europe,134
+2008,Democratic Republic of the Congo,Africa,5
+2008,Denmark,Europe,84
+2008,Djibouti,Africa,2
+2008,Dominica,Americas,2
+2008,Dominican Republic,Americas,24
+2008,Ecuador,Americas,25
+2008,Egypt,Africa,100
+2008,El Salvador,Americas,11
+2008,Equatorial Guinea,Africa,3
+2008,Eritrea,Africa,10
+2008,Estonia,Europe,47
+2008,Ethiopia,Africa,27
+2008,Fiji,Oceania,6
+2008,Finland,Europe,57
+2008,France,Europe,309
+2008,Gabon,Africa,4
+2008,Gambia,Africa,3
+2008,Georgia,Asia,35
+2008,Germany,Europe,420
+2008,Ghana,Africa,9
+2008,Greece,Europe,152
+2008,Grenada,Americas,9
+2008,Guam,Oceania,6
+2008,Guatemala,Americas,12
+2008,Guinea,Africa,5
+2008,Guinea-Bissau,Africa,3
+2008,Guyana,Americas,4
+2008,Haiti,Americas,7
+2008,Honduras,Americas,25
+2008,Hungary,Europe,171
+2008,Iceland,Europe,27
+2008,India,Asia,53
+2008,Indonesia,Asia,24
+2008,Iran,Asia,54
+2008,Iraq,Asia,4
+2008,Ireland,Europe,55
+2008,Israel,Asia,43
+2008,Italy,Europe,333
+2008,Ivory Coast,Africa,21
+2008,Jamaica,Americas,50
+2008,Japan,Asia,332
+2008,Jordan,Asia,7
+2008,Kazakhstan,Asia,130
+2008,Kenya,Africa,46
+2008,Kiribati,Oceania,2
+2008,Kuwait,Asia,8
+2008,Kyrgyzstan,Asia,20
+2008,Laos,Asia,4
+2008,Latvia,Europe,47
+2008,Lebanon,Asia,6
+2008,Lesotho,Africa,5
+2008,Liberia,Africa,3
+2008,Libya,Africa,6
+2008,Liechtenstein,Europe,2
+2008,Lithuania,Europe,71
+2008,Luxembourg,Europe,13
+2008,Macedonia,Europe,7
+2008,Madagascar,Africa,6
+2008,Malawi,Africa,4
+2008,Malaysia,Asia,32
+2008,Maldives,Asia,4
+2008,Mali,Africa,17
+2008,Malta,Europe,6
+2008,Marshall Islands,Oceania,5
+2008,Mauritania,Africa,2
+2008,Mauritius,Africa,11
+2008,Mexico,Americas,83
+2008,Micronesia,Oceania,5
+2008,Moldova,Europe,29
+2008,Monaco,Europe,5
+2008,Mongolia,Asia,28
+2008,Montenegro,Europe,19
+2008,Morocco,Africa,47
+2008,Mozambique,Africa,4
+2008,Myanmar,Asia,6
+2008,Namibia,Africa,10
+2008,Nauru,Oceania,1
+2008,Nepal,Asia,8
+2008,Netherlands,Europe,237
+2008,New Zealand,Oceania,178
+2008,Nicaragua,Americas,6
+2008,Niger,Africa,4
+2008,Nigeria,Africa,74
+2008,North Korea,Asia,58
+2008,Norway,Europe,84
+2008,Oman,Asia,4
+2008,Pakistan,Asia,21
+2008,Palau,Oceania,5
+2008,Palestine,Asia,4
+2008,Panama,Americas,5
+2008,Papua New Guinea,Oceania,7
+2008,Paraguay,Americas,7
+2008,Peru,Americas,13
+2008,Philippines,Asia,15
+2008,Poland,Europe,257
+2008,Portugal,Europe,77
+2008,Puerto Rico,Americas,22
+2008,Qatar,Asia,20
+2008,Republic of Congo,Africa,5
+2008,Romania,Europe,101
+2008,Russia,Europe,454
+2008,Rwanda,Africa,4
+2008,Saint Kitts,Americas,4
+2008,Saint Lucia,Americas,4
+2008,Saint Vincent,Americas,2
+2008,Samoa,Oceania,6
+2008,San Marino,Europe,4
+2008,Sao Tome and Principe,Africa,3
+2008,Saudi Arabia,Asia,14
+2008,Senegal,Africa,15
+2008,Serbia,Europe,87
+2008,Seychelles,Africa,9
+2008,Sierra Leone,Africa,3
+2008,Singapore,Asia,25
+2008,Slovakia,Europe,57
+2008,Slovenia,Europe,61
+2008,Solomon Islands,Oceania,3
+2008,Somalia,Africa,2
+2008,South Africa,Africa,134
+2008,South Korea,Asia,265
+2008,Spain,Europe,283
+2008,Sri Lanka,Asia,8
+2008,Sudan,Africa,9
+2008,Suriname,Americas,4
+2008,Swaziland,Africa,4
+2008,Sweden,Europe,123
+2008,Switzerland,Europe,83
+2008,Syria,Asia,7
+2008,Taiwan,Asia,79
+2008,Tajikistan,Asia,15
+2008,Tanzania,Africa,9
+2008,Thailand,Asia,47
+2008,Timor-Leste,Asia,1
+2008,Togo,Africa,4
+2008,Tonga,Oceania,3
+2008,Trinidad,Americas,28
+2008,Tunisia,Africa,26
+2008,Turkey,Asia,67
+2008,Turkmenistan,Asia,10
+2008,Tuvalu,Oceania,3
+2008,Uganda,Africa,11
+2008,UK,Europe,304
+2008,Ukraine,Europe,243
+2008,United Arab Emirates,Asia,8
+2008,Uruguay,Americas,12
+2008,USA,Americas,595
+2008,Uzbekistan,Asia,56
+2008,Vanuatu,Oceania,3
+2008,Venezuela,Americas,108
+2008,Vietnam,Asia,13
+2008,"Virgin Islands, British",Americas,2
+2008,Yemen,Asia,5
+2008,Zambia,Africa,8
+2008,Zimbabwe,Africa,13
+2012,Afghanistan,Asia,6
+2012,Albania,Europe,9
+2012,Algeria,Africa,38
+2012,American Samoa,Oceania,4
+2012,Andorra,Europe,6
+2012,Angola,Africa,33
+2012,Antigua,Americas,4
+2012,Argentina,Americas,137
+2012,Armenia,Asia,24
+2012,Aruba,Americas,4
+2012,Australia,Oceania,405
+2012,Austria,Europe,70
+2012,Azerbaijan,Asia,52
+2012,Bahamas,Americas,21
+2012,Bahrain,Asia,12
+2012,Bangladesh,Asia,5
+2012,Barbados,Americas,6
+2012,Belarus,Europe,160
+2012,Belgium,Europe,111
+2012,Belize,Americas,3
+2012,Benin,Africa,5
+2012,Bermuda,Americas,8
+2012,Bhutan,Asia,2
+2012,Boliva,Americas,5
+2012,Bosnia and Herzegovina,Europe,6
+2012,Botswana,Africa,4
+2012,Brazil,Americas,248
+2012,Brunei,Asia,3
+2012,Bulgaria,Europe,63
+2012,Burkina Faso,Africa,5
+2012,Burundi,Africa,6
+2012,Cambodia,Asia,6
+2012,Cameroon,Africa,32
+2012,Canada,Americas,273
+2012,Cape Verde,Africa,3
+2012,Cayman Islands,Americas,4
+2012,Central African Republic,Africa,6
+2012,Chad,Africa,2
+2012,Chile,Americas,35
+2012,China,Asia,416
+2012,Colombia,Americas,101
+2012,Comoros,Africa,3
+2012,Cook Islands,Oceania,8
+2012,Costa Rica,Americas,11
+2012,Croatia,Europe,107
+2012,Cuba,Americas,109
+2012,Cyprus,Asia,13
+2012,Czech Republic,Europe,133
+2012,Democratic Republic of the Congo,Africa,4
+2012,Denmark,Europe,114
+2012,Djibouti,Africa,4
+2012,Dominica,Americas,2
+2012,Dominican Republic,Americas,33
+2012,Ecuador,Americas,36
+2012,Egypt,Africa,109
+2012,El Salvador,Americas,10
+2012,Equatorial Guinea,Africa,2
+2012,Eritrea,Africa,12
+2012,Estonia,Europe,32
+2012,Ethiopia,Africa,33
+2012,Fiji,Oceania,9
+2012,Finland,Europe,56
+2012,France,Europe,324
+2012,Gabon,Africa,21
+2012,Gambia,Africa,2
+2012,Georgia,Asia,34
+2012,Germany,Europe,383
+2012,Ghana,Africa,7
+2012,Greece,Europe,102
+2012,Grenada,Americas,8
+2012,Guam,Oceania,8
+2012,Guatemala,Americas,19
+2012,Guinea,Africa,4
+2012,Guinea-Bissau,Africa,4
+2012,Guyana,Americas,6
+2012,Haiti,Americas,5
+2012,Honduras,Americas,25
+2012,Hungary,Europe,152
+2012,Iceland,Europe,27
+2012,India,Asia,81
+2012,Individual Olympic Athletes,Individual Olympic Athletes,4
+2012,Indonesia,Asia,22
+2012,Iran,Asia,52
+2012,Iraq,Asia,8
+2012,Ireland,Europe,64
+2012,Israel,Asia,37
+2012,Italy,Europe,281
+2012,Ivory Coast,Africa,9
+2012,Jamaica,Americas,45
+2012,Japan,Asia,291
+2012,Jordan,Asia,9
+2012,Kazakhstan,Asia,113
+2012,Kenya,Africa,47
+2012,Kiribati,Oceania,3
+2012,Kuwait,Asia,10
+2012,Kyrgyzstan,Asia,14
+2012,Laos,Asia,3
+2012,Latvia,Europe,45
+2012,Lebanon,Asia,10
+2012,Lesotho,Africa,4
+2012,Liberia,Africa,3
+2012,Libya,Africa,4
+2012,Liechtenstein,Europe,3
+2012,Lithuania,Europe,62
+2012,Luxembourg,Europe,9
+2012,Macedonia,Europe,4
+2012,Madagascar,Africa,7
+2012,Malawi,Africa,3
+2012,Malaysia,Asia,29
+2012,Maldives,Asia,5
+2012,Mali,Africa,6
+2012,Malta,Europe,5
+2012,Marshall Islands,Oceania,4
+2012,Mauritania,Africa,2
+2012,Mauritius,Africa,11
+2012,Mexico,Americas,99
+2012,Micronesia,Oceania,6
+2012,Moldova,Europe,20
+2012,Monaco,Europe,6
+2012,Mongolia,Asia,29
+2012,Montenegro,Europe,33
+2012,Morocco,Africa,63
+2012,Mozambique,Africa,6
+2012,Myanmar,Asia,6
+2012,Namibia,Africa,9
+2012,Nauru,Oceania,2
+2012,Nepal,Asia,5
+2012,Netherlands,Europe,173
+2012,New Zealand,Oceania,178
+2012,Nicaragua,Americas,6
+2012,Niger,Africa,6
+2012,Nigeria,Africa,49
+2012,North Korea,Asia,52
+2012,Norway,Europe,61
+2012,Oman,Asia,3
+2012,Pakistan,Asia,21
+2012,Palau,Oceania,5
+2012,Palestine,Asia,5
+2012,Panama,Americas,8
+2012,Papua New Guinea,Oceania,8
+2012,Paraguay,Americas,8
+2012,Peru,Americas,16
+2012,Philippines,Asia,11
+2012,Poland,Europe,210
+2012,Portugal,Europe,76
+2012,Puerto Rico,Americas,25
+2012,Qatar,Asia,12
+2012,Republic of Congo,Africa,7
+2012,Romania,Europe,105
+2012,Russia,Europe,429
+2012,Rwanda,Africa,7
+2012,Saint Kitts,Americas,4
+2012,Saint Lucia,Americas,4
+2012,Saint Vincent,Americas,3
+2012,Samoa,Oceania,8
+2012,San Marino,Europe,4
+2012,Sao Tome and Principe,Africa,2
+2012,Saudi Arabia,Asia,18
+2012,Senegal,Africa,31
+2012,Serbia,Europe,116
+2012,Seychelles,Africa,6
+2012,Sierra Leone,Africa,2
+2012,Singapore,Asia,23
+2012,Slovakia,Europe,47
+2012,Slovenia,Europe,65
+2012,Solomon Islands,Oceania,4
+2012,Somalia,Africa,2
+2012,South Africa,Africa,124
+2012,South Korea,Asia,250
+2012,Spain,Europe,278
+2012,Sri Lanka,Asia,7
+2012,Sudan,Africa,6
+2012,Suriname,Americas,5
+2012,Swaziland,Africa,3
+2012,Sweden,Europe,133
+2012,Switzerland,Europe,98
+2012,Syria,Asia,10
+2012,Taiwan,Asia,44
+2012,Tajikistan,Asia,16
+2012,Tanzania,Africa,6
+2012,Thailand,Asia,37
+2012,Timor-Leste,Asia,2
+2012,Togo,Africa,6
+2012,Tonga,Oceania,3
+2012,Trinidad,Americas,25
+2012,Tunisia,Africa,83
+2012,Turkey,Asia,112
+2012,Turkmenistan,Asia,10
+2012,Tuvalu,Oceania,3
+2012,Uganda,Africa,15
+2012,UK,Europe,530
+2012,Ukraine,Europe,230
+2012,United Arab Emirates,Asia,26
+2012,Uruguay,Americas,27
+2012,USA,Americas,537
+2012,Uzbekistan,Asia,53
+2012,Vanuatu,Oceania,5
+2012,Venezuela,Americas,68
+2012,Vietnam,Asia,18
+2012,"Virgin Islands, British",Americas,2
+2012,Yemen,Asia,4
+2012,Zambia,Africa,7
+2012,Zimbabwe,Africa,7
+2016,Afghanistan,Asia,3
+2016,Albania,Europe,6
+2016,Algeria,Africa,64
+2016,American Samoa,Oceania,4
+2016,Andorra,Europe,4
+2016,Angola,Africa,26
+2016,Antigua,Americas,8
+2016,Argentina,Americas,215
+2016,Armenia,Asia,31
+2016,Aruba,Americas,7
+2016,Australia,Oceania,420
+2016,Austria,Europe,71
+2016,Azerbaijan,Asia,56
+2016,Bahamas,Americas,29
+2016,Bahrain,Asia,33
+2016,Bangladesh,Asia,7
+2016,Barbados,Americas,11
+2016,Belarus,Europe,120
+2016,Belgium,Europe,104
+2016,Belize,Americas,3
+2016,Benin,Africa,6
+2016,Bermuda,Americas,8
+2016,Bhutan,Asia,2
+2016,Boliva,Americas,12
+2016,Bosnia and Herzegovina,Europe,11
+2016,Botswana,Africa,12
+2016,Brazil,Americas,462
+2016,Brunei,Asia,3
+2016,Bulgaria,Europe,51
+2016,Burkina Faso,Africa,5
+2016,Burundi,Africa,9
+2016,Cambodia,Asia,6
+2016,Cameroon,Africa,22
+2016,Canada,Americas,310
+2016,Cape Verde,Africa,5
+2016,Cayman Islands,Americas,5
+2016,Central African Republic,Africa,6
+2016,Chad,Africa,2
+2016,Chile,Americas,42
+2016,China,Asia,429
+2016,Colombia,Americas,143
+2016,Comoros,Africa,4
+2016,Cook Islands,Oceania,9
+2016,Costa Rica,Americas,11
+2016,Croatia,Europe,85
+2016,Cuba,Americas,117
+2016,Cyprus,Asia,15
+2016,Czech Republic,Europe,104
+2016,Democratic Republic of the Congo,Africa,4
+2016,Denmark,Europe,119
+2016,Djibouti,Africa,7
+2016,Dominica,Americas,2
+2016,Dominican Republic,Americas,26
+2016,Ecuador,Americas,37
+2016,Egypt,Africa,121
+2016,El Salvador,Americas,8
+2016,Equatorial Guinea,Africa,1
+2016,Eritrea,Africa,12
+2016,Estonia,Europe,46
+2016,Ethiopia,Africa,37
+2016,Fiji,Oceania,53
+2016,Finland,Europe,54
+2016,France,Europe,392
+2016,Gabon,Africa,6
+2016,Gambia,Africa,4
+2016,Georgia,Asia,40
+2016,Germany,Europe,418
+2016,Ghana,Africa,13
+2016,Greece,Europe,92
+2016,Grenada,Americas,6
+2016,Guam,Oceania,5
+2016,Guatemala,Americas,21
+2016,Guinea,Africa,5
+2016,Guinea-Bissau,Africa,5
+2016,Guyana,Americas,6
+2016,Haiti,Americas,10
+2016,Honduras,Americas,23
+2016,Hungary,Europe,154
+2016,Iceland,Europe,8
+2016,India,Asia,112
+2016,Individual Olympic Athletes,Individual Olympic Athletes,9
+2016,Indonesia,Asia,28
+2016,Iran,Asia,63
+2016,Iraq,Asia,20
+2016,Ireland,Europe,76
+2016,Israel,Asia,47
+2016,Italy,Europe,309
+2016,Ivory Coast,Africa,12
+2016,Jamaica,Americas,56
+2016,Japan,Asia,335
+2016,Jordan,Asia,8
+2016,Kazakhstan,Asia,101
+2016,Kenya,Africa,79
+2016,Kiribati,Oceania,3
+2016,Kosovo,Europe,8
+2016,Kyrgyzstan,Asia,19
+2016,Laos,Asia,5
+2016,Latvia,Europe,32
+2016,Lebanon,Asia,9
+2016,Lesotho,Africa,8
+2016,Liberia,Africa,2
+2016,Libya,Africa,7
+2016,Liechtenstein,Europe,3
+2016,Lithuania,Europe,67
+2016,Luxembourg,Europe,10
+2016,Macedonia,Europe,6
+2016,Madagascar,Africa,6
+2016,Malawi,Africa,5
+2016,Malaysia,Asia,32
+2016,Maldives,Asia,4
+2016,Mali,Africa,6
+2016,Malta,Europe,7
+2016,Marshall Islands,Oceania,5
+2016,Mauritania,Africa,2
+2016,Mauritius,Africa,11
+2016,Mexico,Americas,123
+2016,Micronesia,Oceania,5
+2016,Moldova,Europe,23
+2016,Monaco,Europe,3
+2016,Mongolia,Asia,43
+2016,Montenegro,Europe,35
+2016,Morocco,Africa,48
+2016,Mozambique,Africa,6
+2016,Myanmar,Asia,7
+2016,Namibia,Africa,10
+2016,Nauru,Oceania,2
+2016,Nepal,Asia,7
+2016,Netherlands,Europe,237
+2016,New Zealand,Oceania,195
+2016,Nicaragua,Americas,5
+2016,Niger,Africa,6
+2016,Nigeria,Africa,71
+2016,North Korea,Asia,31
+2016,Norway,Europe,62
+2016,Oman,Asia,4
+2016,Pakistan,Asia,7
+2016,Palau,Oceania,5
+2016,Palestine,Asia,6
+2016,Panama,Americas,10
+2016,Papua New Guinea,Oceania,8
+2016,Paraguay,Americas,11
+2016,Peru,Americas,29
+2016,Philippines,Asia,13
+2016,Poland,Europe,234
+2016,Portugal,Europe,90
+2016,Puerto Rico,Americas,40
+2016,Qatar,Asia,37
+2016,Republic of Congo,Africa,10
+2016,Romania,Europe,95
+2016,Russia,Europe,284
+2016,Rwanda,Africa,7
+2016,Saint Kitts,Americas,6
+2016,Saint Lucia,Americas,5
+2016,Saint Vincent,Americas,4
+2016,Samoa,Oceania,8
+2016,San Marino,Europe,4
+2016,Sao Tome and Principe,Africa,3
+2016,Saudi Arabia,Asia,10
+2016,Senegal,Africa,22
+2016,Serbia,Europe,103
+2016,Seychelles,Africa,10
+2016,Sierra Leone,Africa,4
+2016,Singapore,Asia,25
+2016,Slovakia,Europe,51
+2016,Slovenia,Europe,63
+2016,Solomon Islands,Oceania,3
+2016,Somalia,Africa,2
+2016,South Africa,Africa,135
+2016,South Korea,Asia,207
+2016,South Sudan,Africa,3
+2016,Spain,Europe,307
+2016,Sri Lanka,Asia,9
+2016,Sudan,Africa,6
+2016,Suriname,Americas,6
+2016,Swaziland,Africa,2
+2016,Sweden,Europe,150
+2016,Switzerland,Europe,102
+2016,Syria,Asia,7
+2016,Taiwan,Asia,55
+2016,Tajikistan,Asia,7
+2016,Tanzania,Africa,7
+2016,Thailand,Asia,54
+2016,Timor-Leste,Asia,3
+2016,Togo,Africa,5
+2016,Tonga,Oceania,7
+2016,Trinidad,Americas,28
+2016,Tunisia,Africa,61
+2016,Turkey,Asia,100
+2016,Turkmenistan,Asia,9
+2016,Tuvalu,Oceania,1
+2016,Uganda,Africa,21
+2016,UK,Europe,360
+2016,Ukraine,Europe,204
+2016,United Arab Emirates,Asia,12
+2016,Uruguay,Americas,17
+2016,USA,Americas,562
+2016,Uzbekistan,Asia,70
+2016,Vanuatu,Oceania,4
+2016,Venezuela,Americas,85
+2016,Vietnam,Asia,22
+2016,"Virgin Islands, British",Americas,4
+2016,Yemen,Asia,3
+2016,Zambia,Africa,7
+2016,Zimbabwe,Africa,30
