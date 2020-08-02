@@ -1,1 +1,220 @@
-<h1> Hello, World </h1>
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="Xialin Liu">
+  <title>Narrative Visualization</title>
+
+  <!-- Bootstrap Core CSS -->
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Self Designed CSS -->
+  <link href="./css/style.css" rel="stylesheet">
+
+  <!-- Load d3.js -->
+  <script src="https://d3js.org/d3.v4.js"></script>
+
+
+</head>
+
+
+<body>
+  <header>
+    <div class="container">
+      <div class="row">
+        <div class="col-12"><br>
+          <h1 class="text-left">
+            <img src="./img/olympic_rings.png" width="120" height="55"></img>
+            &nbsp SUMMER OLYMPICS STATISTICS
+          </h1>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <div class="container">
+      <div class="row">
+        <div class="col-12" id="slider">
+          &nbsp&nbsp&nbsp&nbsp&nbsp
+          <button class="btn_default" id="b1" onclick="play(0)">1</button>
+          <button class="btn_default" id="b2" onclick="play(1)">2</button>
+          <button class="btn_default" id="b3" onclick="play(2)">3</button>
+          <button class="btn_default" id="b4" onclick="play(3)">4</button>
+          <button class="btn_default" id="bn" onclick="play(playing+1)">Next Scene</button>
+          &nbsp&nbsp&nbsp
+        </div>
+      </div>
+      <br>
+      <div class="row">
+        <h3 id="scene_title">How Olympic Games became a worldwide sports gala?</h3>
+      </div>
+      <br>
+      <div class="row">
+        <div class="col-lg-8">
+            <div id="MapCav"></div>
+            <div>
+              <li><span class="legend host"></span> Host City</li>
+              <li><span class="legend hostr"></span> Host City Highlighted</li>
+              <li><span class="legend part"></span> Participating Country</li>
+              <li><span class="legend nonpart"></span> Nonparticipating Country</li>
+            </div><br>
+            <p id="scene_annotation">Click Scene button to explore the story.<br>Hover on dots and bars for more detailed information.</p>
+        </div>
+        <div class="col-lg-4">
+          <div id="genTrend">
+            <div>Gender of Athletes</div>
+            <li><span class="legend male"></span> Male</li>
+            <li><span class="legend female"></span> Female</li>
+          </div>
+          <br>
+          <div id="treeMap">
+            <div>Nationality of Athletes</div>
+            <li><span class="legend europe"></span> Europe</li>
+            <li><span class="legend america"></span> Americas</li>
+            <li><span class="legend asia"></span> Asia</li>
+            <li><span class="legend oceania"></span> Oceania</li>
+            <li><span class="legend africa"></span> Africa</li>
+            <li><span class="legend ioa"></span>Individual Olympic Athletes</li>
+          </div>
+        </div>
+      </div>
+      <br><br>
+      <div class="footer">
+        THANKS FOR WATCHING!
+      </div>
+    </div>
+  </main>
+
+  <script>
+    
+    
+
+    var scene_title = ["1896-1936: A Niche Sports Club of Leading Countries"
+      ,"1948-1980: Slow Growth After WWII"
+      ,"1984-2000: Breakthrough with Financial Success"
+      ,"2004-2016: Stationary Period"];
+
+    var scene_annotation = ["Although started with a successful first game held in 1896, the Summer Olympic Games was basically a niche sports club of some leading countries in the world in its early years. The first 10 Games were all held in Europe or North America cities, and had over 90% of competitors from these two continents. <br>The popularization of Olympics was also limited for reasons like: <br>1. The immaturity of competition rules; <br>2. The poor intercontinental transportation – The Games held in USA (1904 & 1932) attracted far less athletes from Europe; and <br>3. The tense international political situation - The 1916, 1940 and 1944 games were cancelled following the onset of World War I and II."
+
+      ,"After the 12-year hiatus caused by the outbreak of World War II, the Olympics continued to grow slowly in a more stable international environment, although the Games was occasionally influenced by some political conflicts such as the Munich massacre in 1972, and the boycotts happened in 1956, 1976 and 1980. <br>Besides the number increasing in participating countries, athletes and sport events, the first games hosted respectively in Oceania (1956 - Melbourne) and Asia (1964 - Tokyo) definitely attracted more people to the Games and promoted the worldwide spreading of Olympic spirit."
+
+      ,"The 1984 Summer Olympics are widely considered to be the most financially successful modern Olympics and served as an example of how to run the model Olympic Games, which also had positive impact on the motivation of host cities and countries for giving them an opportunity to showcase themselves to the world. The 1996 Games was the first time that all of the then-existing and recognised National Olympic Committees were represented. <br>From 1984 to 2000, the number of teams and athletes had a significant growth (especially the number of female athletes, which saw an over 150% growth)."
+      
+      ,"In 2004, the Olympic Games returned to their birthplace in Athens, Greece, as a symbol that the Olympic Games has become a mature worldwide sports event. The number of sports and participating countries tended to be stable in the first 4 Games of 21th century. <br>Today, the Olympic Games means more than just sports: it connects the whole world together, conveys the spirit of peace, euqality and cooperation to everyone."];
+
+  </script>
+
+  <script src="./js/init.js"></script>
+  <script src="./js/slider.js"></script>
+  <script src="./js/map.js"></script>
+  <script src="./js/gender.js"></script>
+  <script src="./js/tree.js"></script>
+
+  <script>
+    var scenes = [[0,9],[10,18],[19,23],[24,27]],
+      playing = -1;
+    function play(s){
+      // No reaction if click the same button
+      if (playing == s) {
+        return false
+      }
+
+      if (s == 4) {
+        return false
+      }
+
+      // update the appearance of buttons
+      btns = document.getElementsByClassName("btn_active");
+      for (var btn of btns){
+        btn.className = "btn_default";
+      }
+      document.getElementById("b"+(s+1)).className = "btn_active";
+
+      // Record the playing scene, change texts
+      playing = s;
+      var scene = scenes[s];
+      d3.select("#scene_title")
+        .text(scene_title[s])
+        .style('opacity', 0)
+        .transition()
+        .style('opacity', 1);
+      d3.select("#scene_annotation")
+        .html(scene_annotation[s])
+        .style('opacity', 0)
+        .transition()
+        // .text(scene_annotation[s])
+        .style('opacity', 1);
+      console.log("Playing scene: "+(playing+1));
+
+      // Remove all existing items
+      d3.selectAll('.city').remove();
+      d3.selectAll('.arc').remove();
+      d3.selectAll('.dot').remove();
+      d3.selectAll('.line').remove();
+      d3.selectAll('.year').remove();
+
+
+      // Draw history items
+      if (s == 0) {
+        start = 0;
+        drawCity(hosts,start,s);
+        drawDot(maleTrend,start,s);
+        drawDot(femaleTrend,start,s);
+      } else {
+        start = scene[0]-1;
+        drawArc(0,start,true,s);
+        drawLine(maleTrend,0,start,true,s);
+        drawLine(femaleTrend,0,start,true,s);
+      }
+      drawRegion(list[start].Regions,s);
+      end = scene[1];
+
+      this.sceneData = [];
+      for (var i=start; i <= end; i++){
+        sceneData.push(childData[i])
+      }
+      
+
+      d3.select("#NxAxis")
+        .transition()
+        .duration(2000)
+        .call(d3.axisBottom()
+          .scale(this.NxScale
+            .domain(this.times.slice(scene[0], end+1))
+            .range([0, width])
+          )
+          .tickSizeOuter(0)
+          .tickSizeInner(0)
+        )
+
+      d3.select("#NyAxis")
+        .transition()
+        .duration(2000)
+        .call(d3.axisLeft()
+          .scale(this.NyScale
+            .domain([0,d3.max(sceneData, function (d) {
+              return d.value+500 })
+            ])
+            .range([0, height])
+            .copy().range([height, 0])
+          )
+          .tickSizeInner(-width)
+          .tickSizeOuter(0)
+        )
+      if (s==0){
+        drawBarTree(start,s);
+      }
+
+      // Start drawing items for current scene
+      updateSlider(hosts[start].Year,s,0);
+      drawArc(start,end,0,s);
+      drawLine(maleTrend,start,end,false,s);
+      drawLine(femaleTrend,start,end,false,s);
+    }
+
+  </script>
+</body>
+</html>
